@@ -1,0 +1,611 @@
+country,genderCategory,count,countryLabel
+http://www.wikidata.org/entity/Q1000,Female,52,Gabon
+http://www.wikidata.org/entity/Q1000,Male,201,Gabon
+http://www.wikidata.org/entity/Q1000,Unknown / not stated,1,Gabon
+http://www.wikidata.org/entity/Q1006,Female,92,Guinea
+http://www.wikidata.org/entity/Q1006,Male,422,Guinea
+http://www.wikidata.org/entity/Q1006,Unknown / not stated,54,Guinea
+http://www.wikidata.org/entity/Q1007,Female,29,Guinea-Bissau
+http://www.wikidata.org/entity/Q1007,Male,238,Guinea-Bissau
+http://www.wikidata.org/entity/Q1007,Unknown / not stated,2,Guinea-Bissau
+http://www.wikidata.org/entity/Q1009,Female,292,Cameroon
+http://www.wikidata.org/entity/Q1009,Male,894,Cameroon
+http://www.wikidata.org/entity/Q1009,Unknown / not stated,8,Cameroon
+http://www.wikidata.org/entity/Q1013,Female,27,Lesotho
+http://www.wikidata.org/entity/Q1013,Male,95,Lesotho
+http://www.wikidata.org/entity/Q1014,Female,49,Liberia
+http://www.wikidata.org/entity/Q1014,Male,326,Liberia
+http://www.wikidata.org/entity/Q1014,Unknown / not stated,2,Liberia
+http://www.wikidata.org/entity/Q1016,Female,59,Libya
+http://www.wikidata.org/entity/Q1016,Male,379,Libya
+http://www.wikidata.org/entity/Q1016,Unknown / not stated,3,Libya
+http://www.wikidata.org/entity/Q1019,Female,83,Madagascar
+http://www.wikidata.org/entity/Q1019,Male,227,Madagascar
+http://www.wikidata.org/entity/Q1019,Unknown / not stated,13,Madagascar
+http://www.wikidata.org/entity/Q1020,Female,63,Malawi
+http://www.wikidata.org/entity/Q1020,Male,70,Malawi
+http://www.wikidata.org/entity/Q1025,Female,27,Mauritania
+http://www.wikidata.org/entity/Q1025,Male,92,Mauritania
+http://www.wikidata.org/entity/Q1025,Unknown / not stated,12,Mauritania
+http://www.wikidata.org/entity/Q1027,Female,68,Mauritius
+http://www.wikidata.org/entity/Q1027,Male,184,Mauritius
+http://www.wikidata.org/entity/Q1027,Unknown / not stated,3,Mauritius
+http://www.wikidata.org/entity/Q1028,Female,576,Morocco
+http://www.wikidata.org/entity/Q1028,Male,1945,Morocco
+http://www.wikidata.org/entity/Q1028,Unknown / not stated,24,Morocco
+http://www.wikidata.org/entity/Q1029,Female,120,Mozambique
+http://www.wikidata.org/entity/Q1029,Male,292,Mozambique
+http://www.wikidata.org/entity/Q1030,Female,101,Namibia
+http://www.wikidata.org/entity/Q1030,Male,298,Namibia
+http://www.wikidata.org/entity/Q1030,Unknown / not stated,2,Namibia
+http://www.wikidata.org/entity/Q1032,Female,41,Niger
+http://www.wikidata.org/entity/Q1032,Male,143,Niger
+http://www.wikidata.org/entity/Q1032,Non-binary or other,1,Niger
+http://www.wikidata.org/entity/Q1032,Unknown / not stated,40,Niger
+http://www.wikidata.org/entity/Q1033,Female,771,Nigeria
+http://www.wikidata.org/entity/Q1033,Male,2060,Nigeria
+http://www.wikidata.org/entity/Q1033,Non-binary or other,4,Nigeria
+http://www.wikidata.org/entity/Q1033,Unknown / not stated,22,Nigeria
+http://www.wikidata.org/entity/Q1036,Female,518,Uganda
+http://www.wikidata.org/entity/Q1036,Male,785,Uganda
+http://www.wikidata.org/entity/Q1036,Non-binary or other,1,Uganda
+http://www.wikidata.org/entity/Q1036,Unknown / not stated,6,Uganda
+http://www.wikidata.org/entity/Q1037,Female,110,Rwanda
+http://www.wikidata.org/entity/Q1037,Male,158,Rwanda
+http://www.wikidata.org/entity/Q1037,Non-binary or other,1,Rwanda
+http://www.wikidata.org/entity/Q1037,Unknown / not stated,19,Rwanda
+http://www.wikidata.org/entity/Q1041,Female,251,Senegal
+http://www.wikidata.org/entity/Q1041,Male,1034,Senegal
+http://www.wikidata.org/entity/Q1041,Non-binary or other,1,Senegal
+http://www.wikidata.org/entity/Q1041,Unknown / not stated,95,Senegal
+http://www.wikidata.org/entity/Q1042,Female,18,Seychelles
+http://www.wikidata.org/entity/Q1042,Male,67,Seychelles
+http://www.wikidata.org/entity/Q1042,Unknown / not stated,6,Seychelles
+http://www.wikidata.org/entity/Q1044,Female,73,Sierra Leone
+http://www.wikidata.org/entity/Q1044,Male,276,Sierra Leone
+http://www.wikidata.org/entity/Q1044,Unknown / not stated,2,Sierra Leone
+http://www.wikidata.org/entity/Q1045,Female,108,Somalia
+http://www.wikidata.org/entity/Q1045,Male,267,Somalia
+http://www.wikidata.org/entity/Q1045,Unknown / not stated,6,Somalia
+http://www.wikidata.org/entity/Q1049,Female,94,Sudan
+http://www.wikidata.org/entity/Q1049,Male,308,Sudan
+http://www.wikidata.org/entity/Q1049,Non-binary or other,1,Sudan
+http://www.wikidata.org/entity/Q1049,Unknown / not stated,2,Sudan
+http://www.wikidata.org/entity/Q1050,Female,30,Eswatini
+http://www.wikidata.org/entity/Q1050,Male,72,Eswatini
+http://www.wikidata.org/entity/Q1050,Unknown / not stated,1,Eswatini
+http://www.wikidata.org/entity/Q114,Female,480,Kenya
+http://www.wikidata.org/entity/Q114,Male,771,Kenya
+http://www.wikidata.org/entity/Q114,Non-binary or other,2,Kenya
+http://www.wikidata.org/entity/Q114,Unknown / not stated,8,Kenya
+http://www.wikidata.org/entity/Q115,Female,240,Ethiopia
+http://www.wikidata.org/entity/Q115,Male,444,Ethiopia
+http://www.wikidata.org/entity/Q115,Unknown / not stated,2,Ethiopia
+http://www.wikidata.org/entity/Q117,Female,325,Ghana
+http://www.wikidata.org/entity/Q117,Male,1776,Ghana
+http://www.wikidata.org/entity/Q117,Unknown / not stated,5,Ghana
+http://www.wikidata.org/entity/Q142,Female,7581,France
+http://www.wikidata.org/entity/Q142,Male,25977,France
+http://www.wikidata.org/entity/Q142,Non-binary or other,8,France
+http://www.wikidata.org/entity/Q142,Unknown / not stated,267,France
+http://www.wikidata.org/entity/Q145,Female,6948,United Kingdom
+http://www.wikidata.org/entity/Q145,Male,20230,United Kingdom
+http://www.wikidata.org/entity/Q145,Non-binary or other,34,United Kingdom
+http://www.wikidata.org/entity/Q145,Unknown / not stated,92,United Kingdom
+http://www.wikidata.org/entity/Q155,Female,5706,Brazil
+http://www.wikidata.org/entity/Q155,Male,13836,Brazil
+http://www.wikidata.org/entity/Q155,Non-binary or other,24,Brazil
+http://www.wikidata.org/entity/Q155,Unknown / not stated,222,Brazil
+http://www.wikidata.org/entity/Q159,Female,14738,Russia
+http://www.wikidata.org/entity/Q159,Male,49681,Russia
+http://www.wikidata.org/entity/Q159,Non-binary or other,11,Russia
+http://www.wikidata.org/entity/Q159,Unknown / not stated,464,Russia
+http://www.wikidata.org/entity/Q16,Female,6811,Canada
+http://www.wikidata.org/entity/Q16,Male,16477,Canada
+http://www.wikidata.org/entity/Q16,Non-binary or other,51,Canada
+http://www.wikidata.org/entity/Q16,Unknown / not stated,105,Canada
+http://www.wikidata.org/entity/Q17,Female,8158,Japan
+http://www.wikidata.org/entity/Q17,Male,14382,Japan
+http://www.wikidata.org/entity/Q17,Non-binary or other,6,Japan
+http://www.wikidata.org/entity/Q17,Unknown / not stated,556,Japan
+http://www.wikidata.org/entity/Q183,Female,36941,Germany
+http://www.wikidata.org/entity/Q183,Male,112365,Germany
+http://www.wikidata.org/entity/Q183,Non-binary or other,44,Germany
+http://www.wikidata.org/entity/Q183,Unknown / not stated,669,Germany
+http://www.wikidata.org/entity/Q184,Female,1097,Belarus
+http://www.wikidata.org/entity/Q184,Male,3175,Belarus
+http://www.wikidata.org/entity/Q184,Unknown / not stated,64,Belarus
+http://www.wikidata.org/entity/Q189,Female,404,Iceland
+http://www.wikidata.org/entity/Q189,Male,881,Iceland
+http://www.wikidata.org/entity/Q189,Non-binary or other,1,Iceland
+http://www.wikidata.org/entity/Q189,Unknown / not stated,6,Iceland
+http://www.wikidata.org/entity/Q191,Female,2453,Estonia
+http://www.wikidata.org/entity/Q191,Male,5050,Estonia
+http://www.wikidata.org/entity/Q191,Non-binary or other,1,Estonia
+http://www.wikidata.org/entity/Q191,Unknown / not stated,4,Estonia
+http://www.wikidata.org/entity/Q20,Female,1659,Norway
+http://www.wikidata.org/entity/Q20,Male,3755,Norway
+http://www.wikidata.org/entity/Q20,Unknown / not stated,5,Norway
+http://www.wikidata.org/entity/Q211,Female,895,Latvia
+http://www.wikidata.org/entity/Q211,Male,2455,Latvia
+http://www.wikidata.org/entity/Q211,Non-binary or other,1,Latvia
+http://www.wikidata.org/entity/Q211,Unknown / not stated,11,Latvia
+http://www.wikidata.org/entity/Q212,Female,2675,Ukraine
+http://www.wikidata.org/entity/Q212,Male,7491,Ukraine
+http://www.wikidata.org/entity/Q212,Non-binary or other,1,Ukraine
+http://www.wikidata.org/entity/Q212,Unknown / not stated,38,Ukraine
+http://www.wikidata.org/entity/Q213,Female,8721,Czech Republic
+http://www.wikidata.org/entity/Q213,Male,19802,Czech Republic
+http://www.wikidata.org/entity/Q213,Non-binary or other,1,Czech Republic
+http://www.wikidata.org/entity/Q213,Unknown / not stated,109,Czech Republic
+http://www.wikidata.org/entity/Q214,Female,995,Slovakia
+http://www.wikidata.org/entity/Q214,Male,2557,Slovakia
+http://www.wikidata.org/entity/Q214,Non-binary or other,2,Slovakia
+http://www.wikidata.org/entity/Q214,Unknown / not stated,28,Slovakia
+http://www.wikidata.org/entity/Q215,Female,1967,Slovenia
+http://www.wikidata.org/entity/Q215,Male,4783,Slovenia
+http://www.wikidata.org/entity/Q215,Unknown / not stated,19,Slovenia
+http://www.wikidata.org/entity/Q217,Female,30,Moldova
+http://www.wikidata.org/entity/Q217,Male,115,Moldova
+http://www.wikidata.org/entity/Q218,Female,241,Romania
+http://www.wikidata.org/entity/Q218,Male,495,Romania
+http://www.wikidata.org/entity/Q218,Non-binary or other,1,Romania
+http://www.wikidata.org/entity/Q218,Unknown / not stated,3,Romania
+http://www.wikidata.org/entity/Q219,Female,1878,Bulgaria
+http://www.wikidata.org/entity/Q219,Male,5398,Bulgaria
+http://www.wikidata.org/entity/Q219060,Female,803,Palestine
+http://www.wikidata.org/entity/Q219060,Male,2420,Palestine
+http://www.wikidata.org/entity/Q219060,Unknown / not stated,12,Palestine
+http://www.wikidata.org/entity/Q221,Female,375,North Macedonia
+http://www.wikidata.org/entity/Q221,Male,1048,North Macedonia
+http://www.wikidata.org/entity/Q221,Unknown / not stated,90,North Macedonia
+http://www.wikidata.org/entity/Q222,Female,35,Albania
+http://www.wikidata.org/entity/Q222,Male,154,Albania
+http://www.wikidata.org/entity/Q222,Unknown / not stated,2,Albania
+http://www.wikidata.org/entity/Q224,Female,1602,Croatia
+http://www.wikidata.org/entity/Q224,Male,5387,Croatia
+http://www.wikidata.org/entity/Q224,Unknown / not stated,145,Croatia
+http://www.wikidata.org/entity/Q225,Female,29,Bosnia and Herzegovina
+http://www.wikidata.org/entity/Q225,Male,59,Bosnia and Herzegovina
+http://www.wikidata.org/entity/Q225,Unknown / not stated,2,Bosnia and Herzegovina
+http://www.wikidata.org/entity/Q227,Female,940,Azerbaijan
+http://www.wikidata.org/entity/Q227,Male,3370,Azerbaijan
+http://www.wikidata.org/entity/Q227,Unknown / not stated,303,Azerbaijan
+http://www.wikidata.org/entity/Q228,Female,39,Andorra
+http://www.wikidata.org/entity/Q228,Male,157,Andorra
+http://www.wikidata.org/entity/Q228,Unknown / not stated,4,Andorra
+http://www.wikidata.org/entity/Q229,Female,139,Cyprus
+http://www.wikidata.org/entity/Q229,Male,479,Cyprus
+http://www.wikidata.org/entity/Q229,Unknown / not stated,9,Cyprus
+http://www.wikidata.org/entity/Q230,Female,920,Georgia
+http://www.wikidata.org/entity/Q230,Male,3360,Georgia
+http://www.wikidata.org/entity/Q230,Non-binary or other,3,Georgia
+http://www.wikidata.org/entity/Q230,Unknown / not stated,472,Georgia
+http://www.wikidata.org/entity/Q232,Female,106,Kazakhstan
+http://www.wikidata.org/entity/Q232,Male,312,Kazakhstan
+http://www.wikidata.org/entity/Q232,Unknown / not stated,14,Kazakhstan
+http://www.wikidata.org/entity/Q233,Female,50,Malta
+http://www.wikidata.org/entity/Q233,Male,173,Malta
+http://www.wikidata.org/entity/Q233,Non-binary or other,3,Malta
+http://www.wikidata.org/entity/Q233,Unknown / not stated,1,Malta
+http://www.wikidata.org/entity/Q235,Female,50,Monaco
+http://www.wikidata.org/entity/Q235,Male,196,Monaco
+http://www.wikidata.org/entity/Q235,Unknown / not stated,1,Monaco
+http://www.wikidata.org/entity/Q236,Female,20,Montenegro
+http://www.wikidata.org/entity/Q236,Male,61,Montenegro
+http://www.wikidata.org/entity/Q238,Female,28,San Marino
+http://www.wikidata.org/entity/Q238,Male,233,San Marino
+http://www.wikidata.org/entity/Q241,Female,743,Cuba
+http://www.wikidata.org/entity/Q241,Male,2052,Cuba
+http://www.wikidata.org/entity/Q241,Non-binary or other,5,Cuba
+http://www.wikidata.org/entity/Q241,Unknown / not stated,16,Cuba
+http://www.wikidata.org/entity/Q242,Female,35,Belize
+http://www.wikidata.org/entity/Q242,Male,63,Belize
+http://www.wikidata.org/entity/Q244,Female,46,Barbados
+http://www.wikidata.org/entity/Q244,Male,164,Barbados
+http://www.wikidata.org/entity/Q244,Unknown / not stated,3,Barbados
+http://www.wikidata.org/entity/Q252,Female,5777,Indonesia
+http://www.wikidata.org/entity/Q252,Male,9812,Indonesia
+http://www.wikidata.org/entity/Q252,Non-binary or other,1,Indonesia
+http://www.wikidata.org/entity/Q252,Unknown / not stated,1051,Indonesia
+http://www.wikidata.org/entity/Q258,Female,975,South Africa
+http://www.wikidata.org/entity/Q258,Male,3128,South Africa
+http://www.wikidata.org/entity/Q258,Non-binary or other,5,South Africa
+http://www.wikidata.org/entity/Q258,Unknown / not stated,16,South Africa
+http://www.wikidata.org/entity/Q262,Female,385,Algeria
+http://www.wikidata.org/entity/Q262,Male,1422,Algeria
+http://www.wikidata.org/entity/Q262,Non-binary or other,1,Algeria
+http://www.wikidata.org/entity/Q262,Unknown / not stated,44,Algeria
+http://www.wikidata.org/entity/Q265,Female,490,Uzbekistan
+http://www.wikidata.org/entity/Q265,Male,1767,Uzbekistan
+http://www.wikidata.org/entity/Q265,Unknown / not stated,183,Uzbekistan
+http://www.wikidata.org/entity/Q27,Female,833,Ireland
+http://www.wikidata.org/entity/Q27,Male,2812,Ireland
+http://www.wikidata.org/entity/Q27,Non-binary or other,1,Ireland
+http://www.wikidata.org/entity/Q27,Unknown / not stated,10,Ireland
+http://www.wikidata.org/entity/Q28,Female,4373,Hungary
+http://www.wikidata.org/entity/Q28,Male,12034,Hungary
+http://www.wikidata.org/entity/Q28,Unknown / not stated,16,Hungary
+http://www.wikidata.org/entity/Q29,Female,10980,Spain
+http://www.wikidata.org/entity/Q29,Male,27338,Spain
+http://www.wikidata.org/entity/Q29,Non-binary or other,31,Spain
+http://www.wikidata.org/entity/Q29,Unknown / not stated,153,Spain
+http://www.wikidata.org/entity/Q298,Female,1761,Chile
+http://www.wikidata.org/entity/Q298,Male,5040,Chile
+http://www.wikidata.org/entity/Q298,Non-binary or other,8,Chile
+http://www.wikidata.org/entity/Q298,Unknown / not stated,15,Chile
+http://www.wikidata.org/entity/Q30,Female,24343,United States
+http://www.wikidata.org/entity/Q30,Male,60950,United States
+http://www.wikidata.org/entity/Q30,Non-binary or other,190,United States
+http://www.wikidata.org/entity/Q30,Unknown / not stated,679,United States
+http://www.wikidata.org/entity/Q31,Female,1276,Belgium
+http://www.wikidata.org/entity/Q31,Male,4010,Belgium
+http://www.wikidata.org/entity/Q31,Non-binary or other,1,Belgium
+http://www.wikidata.org/entity/Q31,Unknown / not stated,30,Belgium
+http://www.wikidata.org/entity/Q32,Female,337,Luxembourg
+http://www.wikidata.org/entity/Q32,Male,930,Luxembourg
+http://www.wikidata.org/entity/Q32,Unknown / not stated,5,Luxembourg
+http://www.wikidata.org/entity/Q33,Female,1403,Finland
+http://www.wikidata.org/entity/Q33,Male,3482,Finland
+http://www.wikidata.org/entity/Q33,Non-binary or other,2,Finland
+http://www.wikidata.org/entity/Q33,Unknown / not stated,6,Finland
+http://www.wikidata.org/entity/Q334,Female,583,Singapore
+http://www.wikidata.org/entity/Q334,Male,1380,Singapore
+http://www.wikidata.org/entity/Q334,Non-binary or other,2,Singapore
+http://www.wikidata.org/entity/Q334,Unknown / not stated,36,Singapore
+http://www.wikidata.org/entity/Q34,Female,2155,Sweden
+http://www.wikidata.org/entity/Q34,Male,5191,Sweden
+http://www.wikidata.org/entity/Q34,Non-binary or other,3,Sweden
+http://www.wikidata.org/entity/Q34,Unknown / not stated,9,Sweden
+http://www.wikidata.org/entity/Q347,Female,29,Liechtenstein
+http://www.wikidata.org/entity/Q347,Male,168,Liechtenstein
+http://www.wikidata.org/entity/Q347,Unknown / not stated,2,Liechtenstein
+http://www.wikidata.org/entity/Q35,Female,1225,Denmark
+http://www.wikidata.org/entity/Q35,Male,3013,Denmark
+http://www.wikidata.org/entity/Q35,Non-binary or other,2,Denmark
+http://www.wikidata.org/entity/Q35,Unknown / not stated,10,Denmark
+http://www.wikidata.org/entity/Q36,Female,6867,Poland
+http://www.wikidata.org/entity/Q36,Male,20344,Poland
+http://www.wikidata.org/entity/Q36,Non-binary or other,3,Poland
+http://www.wikidata.org/entity/Q36,Unknown / not stated,732,Poland
+http://www.wikidata.org/entity/Q37,Female,657,Lithuania
+http://www.wikidata.org/entity/Q37,Male,1863,Lithuania
+http://www.wikidata.org/entity/Q37,Unknown / not stated,8,Lithuania
+http://www.wikidata.org/entity/Q38,Female,13160,Italy
+http://www.wikidata.org/entity/Q38,Male,47261,Italy
+http://www.wikidata.org/entity/Q38,Non-binary or other,8,Italy
+http://www.wikidata.org/entity/Q38,Unknown / not stated,157,Italy
+http://www.wikidata.org/entity/Q39,Female,3484,Switzerland
+http://www.wikidata.org/entity/Q39,Male,10240,Switzerland
+http://www.wikidata.org/entity/Q39,Non-binary or other,5,Switzerland
+http://www.wikidata.org/entity/Q39,Unknown / not stated,229,Switzerland
+http://www.wikidata.org/entity/Q398,Female,74,Bahrain
+http://www.wikidata.org/entity/Q398,Male,219,Bahrain
+http://www.wikidata.org/entity/Q398,Unknown / not stated,1,Bahrain
+http://www.wikidata.org/entity/Q399,Female,919,Armenia
+http://www.wikidata.org/entity/Q399,Male,3080,Armenia
+http://www.wikidata.org/entity/Q399,Unknown / not stated,65,Armenia
+http://www.wikidata.org/entity/Q40,Female,5091,Austria
+http://www.wikidata.org/entity/Q40,Male,12973,Austria
+http://www.wikidata.org/entity/Q40,Non-binary or other,2,Austria
+http://www.wikidata.org/entity/Q40,Unknown / not stated,90,Austria
+http://www.wikidata.org/entity/Q403,Female,1260,Serbia
+http://www.wikidata.org/entity/Q403,Male,3172,Serbia
+http://www.wikidata.org/entity/Q403,Non-binary or other,1,Serbia
+http://www.wikidata.org/entity/Q403,Unknown / not stated,431,Serbia
+http://www.wikidata.org/entity/Q408,Female,4239,Australia
+http://www.wikidata.org/entity/Q408,Male,10365,Australia
+http://www.wikidata.org/entity/Q408,Non-binary or other,23,Australia
+http://www.wikidata.org/entity/Q408,Unknown / not stated,27,Australia
+http://www.wikidata.org/entity/Q41,Female,1919,Greece
+http://www.wikidata.org/entity/Q41,Male,4008,Greece
+http://www.wikidata.org/entity/Q41,Non-binary or other,1,Greece
+http://www.wikidata.org/entity/Q41,Unknown / not stated,47,Greece
+http://www.wikidata.org/entity/Q414,Female,3101,Argentina
+http://www.wikidata.org/entity/Q414,Male,9264,Argentina
+http://www.wikidata.org/entity/Q414,Non-binary or other,7,Argentina
+http://www.wikidata.org/entity/Q414,Unknown / not stated,34,Argentina
+http://www.wikidata.org/entity/Q419,Female,1157,Peru
+http://www.wikidata.org/entity/Q419,Male,3096,Peru
+http://www.wikidata.org/entity/Q419,Non-binary or other,4,Peru
+http://www.wikidata.org/entity/Q419,Unknown / not stated,8,Peru
+http://www.wikidata.org/entity/Q423,Female,71,North Korea
+http://www.wikidata.org/entity/Q423,Male,121,North Korea
+http://www.wikidata.org/entity/Q423,Unknown / not stated,1,North Korea
+http://www.wikidata.org/entity/Q424,Female,106,Cambodia
+http://www.wikidata.org/entity/Q424,Male,225,Cambodia
+http://www.wikidata.org/entity/Q424,Unknown / not stated,6,Cambodia
+http://www.wikidata.org/entity/Q43,Female,2391,Turkey
+http://www.wikidata.org/entity/Q43,Male,5598,Turkey
+http://www.wikidata.org/entity/Q43,Unknown / not stated,110,Turkey
+http://www.wikidata.org/entity/Q45,Female,999,Portugal
+http://www.wikidata.org/entity/Q45,Male,2739,Portugal
+http://www.wikidata.org/entity/Q45,Non-binary or other,3,Portugal
+http://www.wikidata.org/entity/Q45,Unknown / not stated,16,Portugal
+http://www.wikidata.org/entity/Q55,Female,5532,Netherlands
+http://www.wikidata.org/entity/Q55,Male,15070,Netherlands
+http://www.wikidata.org/entity/Q55,Non-binary or other,5,Netherlands
+http://www.wikidata.org/entity/Q55,Unknown / not stated,186,Netherlands
+http://www.wikidata.org/entity/Q657,Female,40,Chad
+http://www.wikidata.org/entity/Q657,Male,132,Chad
+http://www.wikidata.org/entity/Q657,Unknown / not stated,17,Chad
+http://www.wikidata.org/entity/Q664,Female,358,New Zealand
+http://www.wikidata.org/entity/Q664,Male,1159,New Zealand
+http://www.wikidata.org/entity/Q664,Non-binary or other,4,New Zealand
+http://www.wikidata.org/entity/Q664,Unknown / not stated,33,New Zealand
+http://www.wikidata.org/entity/Q668,Female,4396,India
+http://www.wikidata.org/entity/Q668,Male,10608,India
+http://www.wikidata.org/entity/Q668,Non-binary or other,8,India
+http://www.wikidata.org/entity/Q668,Unknown / not stated,252,India
+http://www.wikidata.org/entity/Q672,Female,1,Tuvalu
+http://www.wikidata.org/entity/Q672,Male,23,Tuvalu
+http://www.wikidata.org/entity/Q678,Female,13,Tonga
+http://www.wikidata.org/entity/Q678,Male,239,Tonga
+http://www.wikidata.org/entity/Q678,Unknown / not stated,1,Tonga
+http://www.wikidata.org/entity/Q683,Female,19,Samoa
+http://www.wikidata.org/entity/Q683,Male,163,Samoa
+http://www.wikidata.org/entity/Q683,Non-binary or other,2,Samoa
+http://www.wikidata.org/entity/Q685,Female,12,Solomon Islands
+http://www.wikidata.org/entity/Q685,Male,84,Solomon Islands
+http://www.wikidata.org/entity/Q686,Female,4,Vanuatu
+http://www.wikidata.org/entity/Q686,Male,70,Vanuatu
+http://www.wikidata.org/entity/Q691,Female,10,Papua New Guinea
+http://www.wikidata.org/entity/Q691,Male,143,Papua New Guinea
+http://www.wikidata.org/entity/Q695,Female,1,Palau
+http://www.wikidata.org/entity/Q695,Male,7,Palau
+http://www.wikidata.org/entity/Q695,Unknown / not stated,1,Palau
+http://www.wikidata.org/entity/Q697,Female,7,Nauru
+http://www.wikidata.org/entity/Q697,Male,39,Nauru
+http://www.wikidata.org/entity/Q709,Female,1,Marshall Islands
+http://www.wikidata.org/entity/Q709,Male,6,Marshall Islands
+http://www.wikidata.org/entity/Q710,Female,4,Kiribati
+http://www.wikidata.org/entity/Q710,Male,26,Kiribati
+http://www.wikidata.org/entity/Q711,Female,26,Mongolia
+http://www.wikidata.org/entity/Q711,Male,125,Mongolia
+http://www.wikidata.org/entity/Q711,Unknown / not stated,4,Mongolia
+http://www.wikidata.org/entity/Q712,Female,19,Fiji
+http://www.wikidata.org/entity/Q712,Male,293,Fiji
+http://www.wikidata.org/entity/Q712,Unknown / not stated,1,Fiji
+http://www.wikidata.org/entity/Q717,Female,961,Venezuela
+http://www.wikidata.org/entity/Q717,Male,1914,Venezuela
+http://www.wikidata.org/entity/Q717,Unknown / not stated,13,Venezuela
+http://www.wikidata.org/entity/Q730,Female,193,Suriname
+http://www.wikidata.org/entity/Q730,Male,745,Suriname
+http://www.wikidata.org/entity/Q730,Unknown / not stated,17,Suriname
+http://www.wikidata.org/entity/Q733,Female,192,Paraguay
+http://www.wikidata.org/entity/Q733,Male,962,Paraguay
+http://www.wikidata.org/entity/Q733,Non-binary or other,1,Paraguay
+http://www.wikidata.org/entity/Q733,Unknown / not stated,1,Paraguay
+http://www.wikidata.org/entity/Q734,Female,41,Guyana
+http://www.wikidata.org/entity/Q734,Male,100,Guyana
+http://www.wikidata.org/entity/Q734,Non-binary or other,1,Guyana
+http://www.wikidata.org/entity/Q734,Unknown / not stated,2,Guyana
+http://www.wikidata.org/entity/Q736,Female,211,Ecuador
+http://www.wikidata.org/entity/Q736,Male,512,Ecuador
+http://www.wikidata.org/entity/Q736,Unknown / not stated,4,Ecuador
+http://www.wikidata.org/entity/Q739,Female,709,Colombia
+http://www.wikidata.org/entity/Q739,Male,1679,Colombia
+http://www.wikidata.org/entity/Q739,Non-binary or other,7,Colombia
+http://www.wikidata.org/entity/Q739,Unknown / not stated,21,Colombia
+http://www.wikidata.org/entity/Q750,Female,211,Bolivia
+http://www.wikidata.org/entity/Q750,Male,526,Bolivia
+http://www.wikidata.org/entity/Q750,Non-binary or other,2,Bolivia
+http://www.wikidata.org/entity/Q750,Unknown / not stated,26,Bolivia
+http://www.wikidata.org/entity/Q754,Female,62,Trinidad and Tobago
+http://www.wikidata.org/entity/Q754,Male,186,Trinidad and Tobago
+http://www.wikidata.org/entity/Q754,Unknown / not stated,5,Trinidad and Tobago
+http://www.wikidata.org/entity/Q757,Female,5,Saint Vincent and the Grenadines
+http://www.wikidata.org/entity/Q757,Male,41,Saint Vincent and the Grenadines
+http://www.wikidata.org/entity/Q760,Female,18,Saint Lucia
+http://www.wikidata.org/entity/Q760,Male,77,Saint Lucia
+http://www.wikidata.org/entity/Q760,Unknown / not stated,4,Saint Lucia
+http://www.wikidata.org/entity/Q763,Female,7,Saint Kitts and Nevis
+http://www.wikidata.org/entity/Q763,Male,50,Saint Kitts and Nevis
+http://www.wikidata.org/entity/Q766,Female,152,Jamaica
+http://www.wikidata.org/entity/Q766,Male,353,Jamaica
+http://www.wikidata.org/entity/Q766,Non-binary or other,2,Jamaica
+http://www.wikidata.org/entity/Q766,Unknown / not stated,15,Jamaica
+http://www.wikidata.org/entity/Q769,Female,19,Grenada
+http://www.wikidata.org/entity/Q769,Male,95,Grenada
+http://www.wikidata.org/entity/Q769,Unknown / not stated,1,Grenada
+http://www.wikidata.org/entity/Q77,Female,1434,Uruguay
+http://www.wikidata.org/entity/Q77,Male,5177,Uruguay
+http://www.wikidata.org/entity/Q77,Non-binary or other,4,Uruguay
+http://www.wikidata.org/entity/Q77,Unknown / not stated,13,Uruguay
+http://www.wikidata.org/entity/Q774,Female,205,Guatemala
+http://www.wikidata.org/entity/Q774,Male,546,Guatemala
+http://www.wikidata.org/entity/Q774,Unknown / not stated,4,Guatemala
+http://www.wikidata.org/entity/Q781,Female,14,Antigua and Barbuda
+http://www.wikidata.org/entity/Q781,Male,65,Antigua and Barbuda
+http://www.wikidata.org/entity/Q781,Unknown / not stated,2,Antigua and Barbuda
+http://www.wikidata.org/entity/Q783,Female,64,Honduras
+http://www.wikidata.org/entity/Q783,Male,256,Honduras
+http://www.wikidata.org/entity/Q783,Unknown / not stated,6,Honduras
+http://www.wikidata.org/entity/Q784,Female,14,Dominica
+http://www.wikidata.org/entity/Q784,Male,78,Dominica
+http://www.wikidata.org/entity/Q786,Female,76,Dominican Republic
+http://www.wikidata.org/entity/Q786,Male,108,Dominican Republic
+http://www.wikidata.org/entity/Q786,Unknown / not stated,5,Dominican Republic
+http://www.wikidata.org/entity/Q79,Female,1266,Egypt
+http://www.wikidata.org/entity/Q79,Male,3360,Egypt
+http://www.wikidata.org/entity/Q79,Non-binary or other,4,Egypt
+http://www.wikidata.org/entity/Q79,Unknown / not stated,26,Egypt
+http://www.wikidata.org/entity/Q790,Female,66,Haiti
+http://www.wikidata.org/entity/Q790,Male,186,Haiti
+http://www.wikidata.org/entity/Q790,Unknown / not stated,7,Haiti
+http://www.wikidata.org/entity/Q792,Female,145,El Salvador
+http://www.wikidata.org/entity/Q792,Male,386,El Salvador
+http://www.wikidata.org/entity/Q792,Unknown / not stated,4,El Salvador
+http://www.wikidata.org/entity/Q794,Female,1599,Iran
+http://www.wikidata.org/entity/Q794,Male,5087,Iran
+http://www.wikidata.org/entity/Q794,Non-binary or other,1,Iran
+http://www.wikidata.org/entity/Q794,Unknown / not stated,170,Iran
+http://www.wikidata.org/entity/Q796,Female,301,Iraq
+http://www.wikidata.org/entity/Q796,Male,1735,Iraq
+http://www.wikidata.org/entity/Q796,Unknown / not stated,17,Iraq
+http://www.wikidata.org/entity/Q800,Female,225,Costa Rica
+http://www.wikidata.org/entity/Q800,Male,604,Costa Rica
+http://www.wikidata.org/entity/Q800,Non-binary or other,1,Costa Rica
+http://www.wikidata.org/entity/Q800,Unknown / not stated,2,Costa Rica
+http://www.wikidata.org/entity/Q801,Female,1276,Israel
+http://www.wikidata.org/entity/Q801,Male,3593,Israel
+http://www.wikidata.org/entity/Q801,Non-binary or other,1,Israel
+http://www.wikidata.org/entity/Q801,Unknown / not stated,20,Israel
+http://www.wikidata.org/entity/Q804,Female,226,Panama
+http://www.wikidata.org/entity/Q804,Male,645,Panama
+http://www.wikidata.org/entity/Q804,Unknown / not stated,5,Panama
+http://www.wikidata.org/entity/Q805,Female,36,Yemen
+http://www.wikidata.org/entity/Q805,Male,243,Yemen
+http://www.wikidata.org/entity/Q805,Unknown / not stated,2,Yemen
+http://www.wikidata.org/entity/Q810,Female,184,Jordan
+http://www.wikidata.org/entity/Q810,Male,457,Jordan
+http://www.wikidata.org/entity/Q810,Unknown / not stated,3,Jordan
+http://www.wikidata.org/entity/Q811,Female,86,Nicaragua
+http://www.wikidata.org/entity/Q811,Male,203,Nicaragua
+http://www.wikidata.org/entity/Q811,Unknown / not stated,8,Nicaragua
+http://www.wikidata.org/entity/Q813,Female,131,Kyrgyzstan
+http://www.wikidata.org/entity/Q813,Male,413,Kyrgyzstan
+http://www.wikidata.org/entity/Q813,Unknown / not stated,12,Kyrgyzstan
+http://www.wikidata.org/entity/Q817,Female,87,Kuwait
+http://www.wikidata.org/entity/Q817,Male,279,Kuwait
+http://www.wikidata.org/entity/Q817,Unknown / not stated,3,Kuwait
+http://www.wikidata.org/entity/Q819,Female,28,Laos
+http://www.wikidata.org/entity/Q819,Male,113,Laos
+http://www.wikidata.org/entity/Q819,Unknown / not stated,1,Laos
+http://www.wikidata.org/entity/Q822,Female,581,Lebanon
+http://www.wikidata.org/entity/Q822,Male,1387,Lebanon
+http://www.wikidata.org/entity/Q822,Non-binary or other,1,Lebanon
+http://www.wikidata.org/entity/Q822,Unknown / not stated,25,Lebanon
+http://www.wikidata.org/entity/Q826,Female,50,Maldives
+http://www.wikidata.org/entity/Q826,Male,121,Maldives
+http://www.wikidata.org/entity/Q826,Non-binary or other,1,Maldives
+http://www.wikidata.org/entity/Q826,Unknown / not stated,2,Maldives
+http://www.wikidata.org/entity/Q833,Female,390,Malaysia
+http://www.wikidata.org/entity/Q833,Male,714,Malaysia
+http://www.wikidata.org/entity/Q833,Non-binary or other,1,Malaysia
+http://www.wikidata.org/entity/Q833,Unknown / not stated,100,Malaysia
+http://www.wikidata.org/entity/Q836,Female,64,Myanmar
+http://www.wikidata.org/entity/Q836,Male,195,Myanmar
+http://www.wikidata.org/entity/Q836,Unknown / not stated,18,Myanmar
+http://www.wikidata.org/entity/Q837,Female,195,Nepal
+http://www.wikidata.org/entity/Q837,Male,400,Nepal
+http://www.wikidata.org/entity/Q837,Non-binary or other,1,Nepal
+http://www.wikidata.org/entity/Q837,Unknown / not stated,18,Nepal
+http://www.wikidata.org/entity/Q842,Female,39,Oman
+http://www.wikidata.org/entity/Q842,Male,140,Oman
+http://www.wikidata.org/entity/Q843,Female,447,Pakistan
+http://www.wikidata.org/entity/Q843,Male,1245,Pakistan
+http://www.wikidata.org/entity/Q843,Unknown / not stated,10,Pakistan
+http://www.wikidata.org/entity/Q846,Female,62,Qatar
+http://www.wikidata.org/entity/Q846,Male,584,Qatar
+http://www.wikidata.org/entity/Q846,Unknown / not stated,2,Qatar
+http://www.wikidata.org/entity/Q851,Female,177,Saudi Arabia
+http://www.wikidata.org/entity/Q851,Male,1692,Saudi Arabia
+http://www.wikidata.org/entity/Q851,Non-binary or other,1,Saudi Arabia
+http://www.wikidata.org/entity/Q851,Unknown / not stated,6,Saudi Arabia
+http://www.wikidata.org/entity/Q854,Female,105,Sri Lanka
+http://www.wikidata.org/entity/Q854,Male,448,Sri Lanka
+http://www.wikidata.org/entity/Q854,Non-binary or other,1,Sri Lanka
+http://www.wikidata.org/entity/Q854,Unknown / not stated,11,Sri Lanka
+http://www.wikidata.org/entity/Q858,Female,288,Syria
+http://www.wikidata.org/entity/Q858,Male,1013,Syria
+http://www.wikidata.org/entity/Q858,Unknown / not stated,8,Syria
+http://www.wikidata.org/entity/Q863,Female,174,Tajikistan
+http://www.wikidata.org/entity/Q863,Male,409,Tajikistan
+http://www.wikidata.org/entity/Q863,Unknown / not stated,80,Tajikistan
+http://www.wikidata.org/entity/Q865,Female,963,Taiwan
+http://www.wikidata.org/entity/Q865,Male,1578,Taiwan
+http://www.wikidata.org/entity/Q865,Non-binary or other,2,Taiwan
+http://www.wikidata.org/entity/Q865,Unknown / not stated,75,Taiwan
+http://www.wikidata.org/entity/Q869,Female,640,Thailand
+http://www.wikidata.org/entity/Q869,Male,1284,Thailand
+http://www.wikidata.org/entity/Q869,Non-binary or other,2,Thailand
+http://www.wikidata.org/entity/Q869,Unknown / not stated,56,Thailand
+http://www.wikidata.org/entity/Q874,Female,14,Turkmenistan
+http://www.wikidata.org/entity/Q874,Male,100,Turkmenistan
+http://www.wikidata.org/entity/Q874,Unknown / not stated,3,Turkmenistan
+http://www.wikidata.org/entity/Q878,Female,176,United Arab Emirates
+http://www.wikidata.org/entity/Q878,Male,903,United Arab Emirates
+http://www.wikidata.org/entity/Q878,Unknown / not stated,3,United Arab Emirates
+http://www.wikidata.org/entity/Q881,Female,533,Vietnam
+http://www.wikidata.org/entity/Q881,Male,1057,Vietnam
+http://www.wikidata.org/entity/Q881,Non-binary or other,1,Vietnam
+http://www.wikidata.org/entity/Q881,Unknown / not stated,121,Vietnam
+http://www.wikidata.org/entity/Q884,Female,2571,South Korea
+http://www.wikidata.org/entity/Q884,Male,4856,South Korea
+http://www.wikidata.org/entity/Q884,Non-binary or other,2,South Korea
+http://www.wikidata.org/entity/Q884,Unknown / not stated,210,South Korea
+http://www.wikidata.org/entity/Q889,Female,223,Afghanistan
+http://www.wikidata.org/entity/Q889,Male,513,Afghanistan
+http://www.wikidata.org/entity/Q889,Unknown / not stated,23,Afghanistan
+http://www.wikidata.org/entity/Q902,Female,164,Bangladesh
+http://www.wikidata.org/entity/Q902,Male,534,Bangladesh
+http://www.wikidata.org/entity/Q902,Unknown / not stated,6,Bangladesh
+http://www.wikidata.org/entity/Q912,Female,131,Mali
+http://www.wikidata.org/entity/Q912,Male,505,Mali
+http://www.wikidata.org/entity/Q916,Female,181,Angola
+http://www.wikidata.org/entity/Q916,Male,597,Angola
+http://www.wikidata.org/entity/Q916,Non-binary or other,1,Angola
+http://www.wikidata.org/entity/Q916,Unknown / not stated,1,Angola
+http://www.wikidata.org/entity/Q917,Female,28,Bhutan
+http://www.wikidata.org/entity/Q917,Male,75,Bhutan
+http://www.wikidata.org/entity/Q921,Female,29,Brunei
+http://www.wikidata.org/entity/Q921,Male,145,Brunei
+http://www.wikidata.org/entity/Q924,Female,121,Tanzania
+http://www.wikidata.org/entity/Q924,Male,286,Tanzania
+http://www.wikidata.org/entity/Q924,Unknown / not stated,2,Tanzania
+http://www.wikidata.org/entity/Q928,Female,1070,Philippines
+http://www.wikidata.org/entity/Q928,Male,2058,Philippines
+http://www.wikidata.org/entity/Q928,Non-binary or other,8,Philippines
+http://www.wikidata.org/entity/Q928,Unknown / not stated,52,Philippines
+http://www.wikidata.org/entity/Q929,Female,24,Central African Republic
+http://www.wikidata.org/entity/Q929,Male,135,Central African Republic
+http://www.wikidata.org/entity/Q929,Unknown / not stated,4,Central African Republic
+http://www.wikidata.org/entity/Q945,Female,80,Togo
+http://www.wikidata.org/entity/Q945,Male,291,Togo
+http://www.wikidata.org/entity/Q945,Unknown / not stated,4,Togo
+http://www.wikidata.org/entity/Q948,Female,358,Tunisia
+http://www.wikidata.org/entity/Q948,Male,1447,Tunisia
+http://www.wikidata.org/entity/Q948,Non-binary or other,1,Tunisia
+http://www.wikidata.org/entity/Q948,Unknown / not stated,2,Tunisia
+http://www.wikidata.org/entity/Q953,Female,126,Zambia
+http://www.wikidata.org/entity/Q953,Male,342,Zambia
+http://www.wikidata.org/entity/Q953,Non-binary or other,1,Zambia
+http://www.wikidata.org/entity/Q954,Female,220,Zimbabwe
+http://www.wikidata.org/entity/Q954,Male,706,Zimbabwe
+http://www.wikidata.org/entity/Q954,Unknown / not stated,4,Zimbabwe
+http://www.wikidata.org/entity/Q958,Female,22,South Sudan
+http://www.wikidata.org/entity/Q958,Male,63,South Sudan
+http://www.wikidata.org/entity/Q96,Female,2780,Mexico
+http://www.wikidata.org/entity/Q96,Male,5928,Mexico
+http://www.wikidata.org/entity/Q96,Non-binary or other,5,Mexico
+http://www.wikidata.org/entity/Q96,Unknown / not stated,28,Mexico
+http://www.wikidata.org/entity/Q962,Female,76,Benin
+http://www.wikidata.org/entity/Q962,Male,170,Benin
+http://www.wikidata.org/entity/Q962,Unknown / not stated,2,Benin
+http://www.wikidata.org/entity/Q963,Female,62,Botswana
+http://www.wikidata.org/entity/Q963,Male,139,Botswana
+http://www.wikidata.org/entity/Q963,Unknown / not stated,1,Botswana
+http://www.wikidata.org/entity/Q965,Female,66,Burkina Faso
+http://www.wikidata.org/entity/Q965,Male,280,Burkina Faso
+http://www.wikidata.org/entity/Q965,Unknown / not stated,2,Burkina Faso
+http://www.wikidata.org/entity/Q967,Female,46,Burundi
+http://www.wikidata.org/entity/Q967,Male,189,Burundi
+http://www.wikidata.org/entity/Q967,Non-binary or other,2,Burundi
+http://www.wikidata.org/entity/Q967,Unknown / not stated,4,Burundi
+http://www.wikidata.org/entity/Q970,Female,39,Comoros
+http://www.wikidata.org/entity/Q970,Male,40,Comoros
+http://www.wikidata.org/entity/Q971,Female,70,Republic of the Congo
+http://www.wikidata.org/entity/Q971,Male,343,Republic of the Congo
+http://www.wikidata.org/entity/Q971,Unknown / not stated,3,Republic of the Congo
+http://www.wikidata.org/entity/Q974,Female,254,Democratic Republic of the Congo
+http://www.wikidata.org/entity/Q974,Male,954,Democratic Republic of the Congo
+http://www.wikidata.org/entity/Q974,Unknown / not stated,3,Democratic Republic of the Congo
+http://www.wikidata.org/entity/Q977,Female,14,Djibouti
+http://www.wikidata.org/entity/Q977,Male,56,Djibouti
+http://www.wikidata.org/entity/Q977,Unknown / not stated,2,Djibouti
+http://www.wikidata.org/entity/Q983,Female,26,Equatorial Guinea
+http://www.wikidata.org/entity/Q983,Male,94,Equatorial Guinea
+http://www.wikidata.org/entity/Q986,Female,41,Eritrea
+http://www.wikidata.org/entity/Q986,Male,189,Eritrea
+http://www.wikidata.org/entity/Q986,Unknown / not stated,1,Eritrea
