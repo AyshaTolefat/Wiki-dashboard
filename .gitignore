@@ -5,3 +5,15 @@ data/*raw*
 data/countries_from_wikidata.csv
 data/gender_country_modern.csv
 venv/
+data/dumps/
+*.bz2
+data/dump_outputs/
+data/occupation_ancestors_cache.csv
+data/occupation_labels_cache.csv
+data/gender_occupation_raw_long.csv
+data/gender_occupation_with_labels.csv
+data/sector_coverage_report.csv
+data/top_other_occupations*.csv
+data/missing_countries_qids.txt
+.DS_Store
+Thumbs.db
