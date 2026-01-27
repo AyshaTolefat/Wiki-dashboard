@@ -1,4 +1,7 @@
 __pyache__/
 *.pyc 
 data/*people_sample*.csv
+data/*raw*
+data/countries_from_wikidata.csv
+data/gender_country_modern.csv
 venv/
