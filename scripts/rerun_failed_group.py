@@ -22,7 +22,6 @@ END_YEAR = 2026
 INITIAL_CHUNK = 20
 MIN_CHUNK = 1
 
-# No label service (cheaper). We'll keep URIs and set ethnicGroupLabel="" for now.
 CHUNK_QUERY = """
 PREFIX wd:  <http://www.wikidata.org/entity/>
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>

@@ -12,8 +12,6 @@ DATA_DIR.mkdir(exist_ok=True)
 ALLOWED_COUNTRIES_PATH = DATA_DIR / "allowed_countries_qids.csv"
 OUTPUT_PATH = DATA_DIR / "languages_by_country.csv"
 
-# Native language: P103
-# Spoken/written language: P1412
 LANGUAGES_COUNTRY_QUERY = """
 PREFIX wd:  <http://www.wikidata.org/entity/>
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>
@@ -26,7 +24,6 @@ WHERE {{
   ?person wdt:P31 wd:Q5 .
   ?person wdt:P19 / wdt:P17 ?country .
 
-  # Keep consistent with your other queries: only "modern-ish" people
   OPTIONAL {{ ?person wdt:P569 ?dob . }}
   FILTER( !BOUND(?dob) || ?dob >= "1900-01-01T00:00:00Z"^^xsd:dateTime )
 

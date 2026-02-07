@@ -27,10 +27,8 @@ WHERE {{
   OPTIONAL {{ ?person wdt:P21 ?gender . }}
   OPTIONAL {{ ?person wdt:P569 ?dob . }}
 
-  # Keep consistent with your other datasets
   FILTER( !BOUND(?dob) || ?dob >= "1900-01-01T00:00:00Z"^^xsd:dateTime )
 
-  # Ethnic group (skip people with no ethnic group recorded)
   ?person wdt:P172 ?ethnicGroup .
 
   BIND(
