@@ -1,621 +1,649 @@
 country,countryLabel,ageGroup,count
-http://www.wikidata.org/entity/Q889,Afghanistan,13-20 teen,8
-http://www.wikidata.org/entity/Q889,Afghanistan,21-59 adult,698
-http://www.wikidata.org/entity/Q889,Afghanistan,60+ senior,356
-http://www.wikidata.org/entity/Q222,Albania,13-20 teen,14
-http://www.wikidata.org/entity/Q222,Albania,21-59 adult,1788
-http://www.wikidata.org/entity/Q222,Albania,60+ senior,610
-http://www.wikidata.org/entity/Q262,Algeria,13-20 teen,6
-http://www.wikidata.org/entity/Q262,Algeria,21-59 adult,2250
-http://www.wikidata.org/entity/Q262,Algeria,60+ senior,2040
-http://www.wikidata.org/entity/Q228,Andorra,13-20 teen,2
-http://www.wikidata.org/entity/Q228,Andorra,21-59 adult,222
-http://www.wikidata.org/entity/Q228,Andorra,60+ senior,48
-http://www.wikidata.org/entity/Q916,Angola,0-12 child,1
-http://www.wikidata.org/entity/Q916,Angola,13-20 teen,3
-http://www.wikidata.org/entity/Q916,Angola,21-59 adult,718
-http://www.wikidata.org/entity/Q916,Angola,60+ senior,296
-http://www.wikidata.org/entity/Q781,Antigua and Barbuda,21-59 adult,136
-http://www.wikidata.org/entity/Q781,Antigua and Barbuda,60+ senior,59
-http://www.wikidata.org/entity/Q414,Argentina,0-12 child,2
-http://www.wikidata.org/entity/Q414,Argentina,13-20 teen,112
-http://www.wikidata.org/entity/Q414,Argentina,21-59 adult,13538
-http://www.wikidata.org/entity/Q414,Argentina,60+ senior,6566
-http://www.wikidata.org/entity/Q399,Armenia,0-12 child,2
-http://www.wikidata.org/entity/Q399,Armenia,13-20 teen,7
-http://www.wikidata.org/entity/Q399,Armenia,21-59 adult,2362
-http://www.wikidata.org/entity/Q399,Armenia,60+ senior,2703
-http://www.wikidata.org/entity/Q408,Australia,0-12 child,6
-http://www.wikidata.org/entity/Q408,Australia,13-20 teen,132
-http://www.wikidata.org/entity/Q408,Australia,21-59 adult,14412
-http://www.wikidata.org/entity/Q408,Australia,60+ senior,7324
-http://www.wikidata.org/entity/Q40,Austria,0-12 child,1
-http://www.wikidata.org/entity/Q40,Austria,13-20 teen,171
-http://www.wikidata.org/entity/Q40,Austria,21-59 adult,11345
-http://www.wikidata.org/entity/Q40,Austria,60+ senior,12060
-http://www.wikidata.org/entity/Q227,Azerbaijan,13-20 teen,30
-http://www.wikidata.org/entity/Q227,Azerbaijan,21-59 adult,2897
-http://www.wikidata.org/entity/Q227,Azerbaijan,60+ senior,3352
-http://www.wikidata.org/entity/Q398,Bahrain,13-20 teen,1
-http://www.wikidata.org/entity/Q398,Bahrain,21-59 adult,231
-http://www.wikidata.org/entity/Q398,Bahrain,60+ senior,94
-http://www.wikidata.org/entity/Q902,Bangladesh,13-20 teen,15
-http://www.wikidata.org/entity/Q902,Bangladesh,21-59 adult,1089
-http://www.wikidata.org/entity/Q902,Bangladesh,60+ senior,807
-http://www.wikidata.org/entity/Q244,Barbados,13-20 teen,1
-http://www.wikidata.org/entity/Q244,Barbados,21-59 adult,269
-http://www.wikidata.org/entity/Q244,Barbados,60+ senior,168
-http://www.wikidata.org/entity/Q184,Belarus,13-20 teen,108
-http://www.wikidata.org/entity/Q184,Belarus,21-59 adult,5366
-http://www.wikidata.org/entity/Q184,Belarus,60+ senior,4577
-http://www.wikidata.org/entity/Q31,Belgium,0-12 child,4
-http://www.wikidata.org/entity/Q31,Belgium,13-20 teen,100
-http://www.wikidata.org/entity/Q31,Belgium,21-59 adult,8198
-http://www.wikidata.org/entity/Q31,Belgium,60+ senior,6767
-http://www.wikidata.org/entity/Q242,Belize,21-59 adult,150
-http://www.wikidata.org/entity/Q242,Belize,60+ senior,59
-http://www.wikidata.org/entity/Q962,Benin,13-20 teen,4
-http://www.wikidata.org/entity/Q962,Benin,21-59 adult,343
-http://www.wikidata.org/entity/Q962,Benin,60+ senior,165
-http://www.wikidata.org/entity/Q917,Bhutan,0-12 child,3
-http://www.wikidata.org/entity/Q917,Bhutan,21-59 adult,107
-http://www.wikidata.org/entity/Q917,Bhutan,60+ senior,28
-http://www.wikidata.org/entity/Q750,Bolivia,13-20 teen,23
-http://www.wikidata.org/entity/Q750,Bolivia,21-59 adult,983
-http://www.wikidata.org/entity/Q750,Bolivia,60+ senior,501
-http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina,13-20 teen,9
-http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina,21-59 adult,2804
-http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina,60+ senior,1526
-http://www.wikidata.org/entity/Q963,Botswana,13-20 teen,6
-http://www.wikidata.org/entity/Q963,Botswana,21-59 adult,333
-http://www.wikidata.org/entity/Q963,Botswana,60+ senior,53
-http://www.wikidata.org/entity/Q155,Brazil,0-12 child,57
-http://www.wikidata.org/entity/Q155,Brazil,13-20 teen,261
-http://www.wikidata.org/entity/Q155,Brazil,21-59 adult,32304
-http://www.wikidata.org/entity/Q155,Brazil,60+ senior,20953
-http://www.wikidata.org/entity/Q921,Brunei,0-12 child,1
-http://www.wikidata.org/entity/Q921,Brunei,13-20 teen,6
-http://www.wikidata.org/entity/Q921,Brunei,21-59 adult,146
-http://www.wikidata.org/entity/Q921,Brunei,60+ senior,33
-http://www.wikidata.org/entity/Q219,Bulgaria,0-12 child,2
-http://www.wikidata.org/entity/Q219,Bulgaria,13-20 teen,40
-http://www.wikidata.org/entity/Q219,Bulgaria,21-59 adult,6060
-http://www.wikidata.org/entity/Q219,Bulgaria,60+ senior,4986
-http://www.wikidata.org/entity/Q965,Burkina Faso,13-20 teen,4
-http://www.wikidata.org/entity/Q965,Burkina Faso,21-59 adult,421
-http://www.wikidata.org/entity/Q965,Burkina Faso,60+ senior,149
-http://www.wikidata.org/entity/Q967,Burundi,0-12 child,1
-http://www.wikidata.org/entity/Q967,Burundi,13-20 teen,1
-http://www.wikidata.org/entity/Q967,Burundi,21-59 adult,234
-http://www.wikidata.org/entity/Q967,Burundi,60+ senior,51
-http://www.wikidata.org/entity/Q424,Cambodia,0-12 child,1
-http://www.wikidata.org/entity/Q424,Cambodia,13-20 teen,3
-http://www.wikidata.org/entity/Q424,Cambodia,21-59 adult,253
-http://www.wikidata.org/entity/Q424,Cambodia,60+ senior,156
-http://www.wikidata.org/entity/Q1009,Cameroon,13-20 teen,23
-http://www.wikidata.org/entity/Q1009,Cameroon,21-59 adult,1911
-http://www.wikidata.org/entity/Q1009,Cameroon,60+ senior,458
-http://www.wikidata.org/entity/Q16,Canada,0-12 child,29
-http://www.wikidata.org/entity/Q16,Canada,13-20 teen,207
-http://www.wikidata.org/entity/Q16,Canada,21-59 adult,21291
-http://www.wikidata.org/entity/Q16,Canada,60+ senior,15318
-http://www.wikidata.org/entity/Q1011,Cape Verde,13-20 teen,1
-http://www.wikidata.org/entity/Q1011,Cape Verde,21-59 adult,242
-http://www.wikidata.org/entity/Q1011,Cape Verde,60+ senior,83
-http://www.wikidata.org/entity/Q929,Central African Republic,21-59 adult,145
-http://www.wikidata.org/entity/Q929,Central African Republic,60+ senior,55
-http://www.wikidata.org/entity/Q657,Chad,21-59 adult,168
-http://www.wikidata.org/entity/Q657,Chad,60+ senior,74
-http://www.wikidata.org/entity/Q298,Chile,0-12 child,1
-http://www.wikidata.org/entity/Q298,Chile,13-20 teen,33
-http://www.wikidata.org/entity/Q298,Chile,21-59 adult,4569
-http://www.wikidata.org/entity/Q298,Chile,60+ senior,2741
-http://www.wikidata.org/entity/Q739,Colombia,13-20 teen,64
-http://www.wikidata.org/entity/Q739,Colombia,21-59 adult,5709
-http://www.wikidata.org/entity/Q739,Colombia,60+ senior,2007
-http://www.wikidata.org/entity/Q970,Comoros,13-20 teen,3
-http://www.wikidata.org/entity/Q970,Comoros,21-59 adult,92
-http://www.wikidata.org/entity/Q970,Comoros,60+ senior,27
-http://www.wikidata.org/entity/Q800,Costa Rica,13-20 teen,8
-http://www.wikidata.org/entity/Q800,Costa Rica,21-59 adult,1005
-http://www.wikidata.org/entity/Q800,Costa Rica,60+ senior,416
-http://www.wikidata.org/entity/Q224,Croatia,13-20 teen,27
-http://www.wikidata.org/entity/Q224,Croatia,21-59 adult,4359
-http://www.wikidata.org/entity/Q224,Croatia,60+ senior,2141
-http://www.wikidata.org/entity/Q241,Cuba,0-12 child,1
-http://www.wikidata.org/entity/Q241,Cuba,13-20 teen,11
-http://www.wikidata.org/entity/Q241,Cuba,21-59 adult,1982
-http://www.wikidata.org/entity/Q241,Cuba,60+ senior,1450
-http://www.wikidata.org/entity/Q229,Cyprus,0-12 child,2
-http://www.wikidata.org/entity/Q229,Cyprus,13-20 teen,9
-http://www.wikidata.org/entity/Q229,Cyprus,21-59 adult,893
-http://www.wikidata.org/entity/Q229,Cyprus,60+ senior,652
-http://www.wikidata.org/entity/Q213,Czech Republic,0-12 child,19
-http://www.wikidata.org/entity/Q213,Czech Republic,13-20 teen,237
-http://www.wikidata.org/entity/Q213,Czech Republic,21-59 adult,31639
-http://www.wikidata.org/entity/Q213,Czech Republic,60+ senior,40344
-http://www.wikidata.org/entity/Q974,Democratic Republic of the Congo,13-20 teen,3
-http://www.wikidata.org/entity/Q974,Democratic Republic of the Congo,21-59 adult,1407
-http://www.wikidata.org/entity/Q974,Democratic Republic of the Congo,60+ senior,539
-http://www.wikidata.org/entity/Q35,Denmark,13-20 teen,235
-http://www.wikidata.org/entity/Q35,Denmark,21-59 adult,6185
-http://www.wikidata.org/entity/Q35,Denmark,60+ senior,3868
-http://www.wikidata.org/entity/Q977,Djibouti,21-59 adult,49
-http://www.wikidata.org/entity/Q977,Djibouti,60+ senior,28
-http://www.wikidata.org/entity/Q784,Dominica,21-59 adult,79
-http://www.wikidata.org/entity/Q784,Dominica,60+ senior,53
-http://www.wikidata.org/entity/Q786,Dominican Republic,0-12 child,1
-http://www.wikidata.org/entity/Q786,Dominican Republic,13-20 teen,13
-http://www.wikidata.org/entity/Q786,Dominican Republic,21-59 adult,1819
-http://www.wikidata.org/entity/Q786,Dominican Republic,60+ senior,529
-http://www.wikidata.org/entity/Q736,Ecuador,13-20 teen,24
-http://www.wikidata.org/entity/Q736,Ecuador,21-59 adult,1868
-http://www.wikidata.org/entity/Q736,Ecuador,60+ senior,628
-http://www.wikidata.org/entity/Q79,Egypt,0-12 child,1
-http://www.wikidata.org/entity/Q79,Egypt,13-20 teen,28
-http://www.wikidata.org/entity/Q79,Egypt,21-59 adult,2330
-http://www.wikidata.org/entity/Q79,Egypt,60+ senior,1745
-http://www.wikidata.org/entity/Q792,El Salvador,13-20 teen,4
-http://www.wikidata.org/entity/Q792,El Salvador,21-59 adult,526
-http://www.wikidata.org/entity/Q792,El Salvador,60+ senior,274
-http://www.wikidata.org/entity/Q983,Equatorial Guinea,13-20 teen,2
-http://www.wikidata.org/entity/Q983,Equatorial Guinea,21-59 adult,172
-http://www.wikidata.org/entity/Q983,Equatorial Guinea,60+ senior,55
-http://www.wikidata.org/entity/Q986,Eritrea,13-20 teen,2
-http://www.wikidata.org/entity/Q986,Eritrea,21-59 adult,134
-http://www.wikidata.org/entity/Q986,Eritrea,60+ senior,65
-http://www.wikidata.org/entity/Q191,Estonia,13-20 teen,37
-http://www.wikidata.org/entity/Q191,Estonia,21-59 adult,5603
-http://www.wikidata.org/entity/Q191,Estonia,60+ senior,6555
-http://www.wikidata.org/entity/Q1050,Eswatini,21-59 adult,94
-http://www.wikidata.org/entity/Q1050,Eswatini,60+ senior,13
-http://www.wikidata.org/entity/Q115,Ethiopia,13-20 teen,7
-http://www.wikidata.org/entity/Q115,Ethiopia,21-59 adult,682
-http://www.wikidata.org/entity/Q115,Ethiopia,60+ senior,191
-http://www.wikidata.org/entity/Q702,Federated States of Micronesia,21-59 adult,24
+http://www.wikidata.org/entity/Q889,Afghanistan,15-24 youth,19
+http://www.wikidata.org/entity/Q889,Afghanistan,25-59 adult,682
+http://www.wikidata.org/entity/Q889,Afghanistan,60+ senior,365
+http://www.wikidata.org/entity/Q222,Albania,15-24 youth,49
+http://www.wikidata.org/entity/Q222,Albania,25-59 adult,1729
+http://www.wikidata.org/entity/Q222,Albania,60+ senior,655
+http://www.wikidata.org/entity/Q262,Algeria,15-24 youth,33
+http://www.wikidata.org/entity/Q262,Algeria,25-59 adult,2170
+http://www.wikidata.org/entity/Q262,Algeria,60+ senior,2108
+http://www.wikidata.org/entity/Q228,Andorra,15-24 youth,7
+http://www.wikidata.org/entity/Q228,Andorra,25-59 adult,210
+http://www.wikidata.org/entity/Q228,Andorra,60+ senior,56
+http://www.wikidata.org/entity/Q916,Angola,0-14 child,1
+http://www.wikidata.org/entity/Q916,Angola,15-24 youth,23
+http://www.wikidata.org/entity/Q916,Angola,25-59 adult,682
+http://www.wikidata.org/entity/Q916,Angola,60+ senior,318
+http://www.wikidata.org/entity/Q781,Antigua and Barbuda,15-24 youth,3
+http://www.wikidata.org/entity/Q781,Antigua and Barbuda,25-59 adult,131
+http://www.wikidata.org/entity/Q781,Antigua and Barbuda,60+ senior,61
+http://www.wikidata.org/entity/Q414,Argentina,0-14 child,2
+http://www.wikidata.org/entity/Q414,Argentina,15-24 youth,506
+http://www.wikidata.org/entity/Q414,Argentina,25-59 adult,12964
+http://www.wikidata.org/entity/Q414,Argentina,60+ senior,6802
+http://www.wikidata.org/entity/Q399,Armenia,0-14 child,3
+http://www.wikidata.org/entity/Q399,Armenia,15-24 youth,38
+http://www.wikidata.org/entity/Q399,Armenia,25-59 adult,2268
+http://www.wikidata.org/entity/Q399,Armenia,60+ senior,2775
+http://www.wikidata.org/entity/Q408,Australia,0-14 child,7
+http://www.wikidata.org/entity/Q408,Australia,15-24 youth,446
+http://www.wikidata.org/entity/Q408,Australia,25-59 adult,13885
+http://www.wikidata.org/entity/Q408,Australia,60+ senior,7610
+http://www.wikidata.org/entity/Q40,Austria,0-14 child,1
+http://www.wikidata.org/entity/Q40,Austria,15-24 youth,504
+http://www.wikidata.org/entity/Q40,Austria,25-59 adult,10692
+http://www.wikidata.org/entity/Q40,Austria,60+ senior,12484
+http://www.wikidata.org/entity/Q227,Azerbaijan,0-14 child,1
+http://www.wikidata.org/entity/Q227,Azerbaijan,15-24 youth,86
+http://www.wikidata.org/entity/Q227,Azerbaijan,25-59 adult,2765
+http://www.wikidata.org/entity/Q227,Azerbaijan,60+ senior,3457
+http://www.wikidata.org/entity/Q398,Bahrain,15-24 youth,7
+http://www.wikidata.org/entity/Q398,Bahrain,25-59 adult,224
+http://www.wikidata.org/entity/Q398,Bahrain,60+ senior,96
+http://www.wikidata.org/entity/Q902,Bangladesh,15-24 youth,53
+http://www.wikidata.org/entity/Q902,Bangladesh,25-59 adult,1027
+http://www.wikidata.org/entity/Q902,Bangladesh,60+ senior,850
+http://www.wikidata.org/entity/Q244,Barbados,15-24 youth,9
+http://www.wikidata.org/entity/Q244,Barbados,25-59 adult,255
+http://www.wikidata.org/entity/Q244,Barbados,60+ senior,174
+http://www.wikidata.org/entity/Q184,Belarus,15-24 youth,402
+http://www.wikidata.org/entity/Q184,Belarus,25-59 adult,5016
+http://www.wikidata.org/entity/Q184,Belarus,60+ senior,4674
+http://www.wikidata.org/entity/Q31,Belgium,0-14 child,5
+http://www.wikidata.org/entity/Q31,Belgium,15-24 youth,371
+http://www.wikidata.org/entity/Q31,Belgium,25-59 adult,7771
+http://www.wikidata.org/entity/Q31,Belgium,60+ senior,7106
+http://www.wikidata.org/entity/Q242,Belize,15-24 youth,2
+http://www.wikidata.org/entity/Q242,Belize,25-59 adult,145
+http://www.wikidata.org/entity/Q242,Belize,60+ senior,61
+http://www.wikidata.org/entity/Q962,Benin,15-24 youth,20
+http://www.wikidata.org/entity/Q962,Benin,25-59 adult,270
+http://www.wikidata.org/entity/Q962,Benin,60+ senior,152
+http://www.wikidata.org/entity/Q917,Bhutan,0-14 child,3
+http://www.wikidata.org/entity/Q917,Bhutan,15-24 youth,2
+http://www.wikidata.org/entity/Q917,Bhutan,25-59 adult,103
+http://www.wikidata.org/entity/Q917,Bhutan,60+ senior,30
+http://www.wikidata.org/entity/Q750,Bolivia,15-24 youth,46
+http://www.wikidata.org/entity/Q750,Bolivia,25-59 adult,946
+http://www.wikidata.org/entity/Q750,Bolivia,60+ senior,527
+http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina,15-24 youth,63
+http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina,25-59 adult,2696
+http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina,60+ senior,1584
+http://www.wikidata.org/entity/Q963,Botswana,15-24 youth,21
+http://www.wikidata.org/entity/Q963,Botswana,25-59 adult,321
+http://www.wikidata.org/entity/Q963,Botswana,60+ senior,59
+http://www.wikidata.org/entity/Q155,Brazil,0-14 child,67
+http://www.wikidata.org/entity/Q155,Brazil,15-24 youth,1046
+http://www.wikidata.org/entity/Q155,Brazil,25-59 adult,30584
+http://www.wikidata.org/entity/Q155,Brazil,60+ senior,21954
+http://www.wikidata.org/entity/Q921,Brunei,0-14 child,1
+http://www.wikidata.org/entity/Q921,Brunei,15-24 youth,7
+http://www.wikidata.org/entity/Q921,Brunei,25-59 adult,139
+http://www.wikidata.org/entity/Q921,Brunei,60+ senior,41
+http://www.wikidata.org/entity/Q219,Bulgaria,0-14 child,3
+http://www.wikidata.org/entity/Q219,Bulgaria,15-24 youth,150
+http://www.wikidata.org/entity/Q219,Bulgaria,25-59 adult,5799
+http://www.wikidata.org/entity/Q219,Bulgaria,60+ senior,5273
+http://www.wikidata.org/entity/Q965,Burkina Faso,15-24 youth,12
+http://www.wikidata.org/entity/Q965,Burkina Faso,25-59 adult,406
+http://www.wikidata.org/entity/Q965,Burkina Faso,60+ senior,160
+http://www.wikidata.org/entity/Q967,Burundi,0-14 child,1
+http://www.wikidata.org/entity/Q967,Burundi,15-24 youth,6
+http://www.wikidata.org/entity/Q967,Burundi,25-59 adult,223
+http://www.wikidata.org/entity/Q967,Burundi,60+ senior,60
+http://www.wikidata.org/entity/Q424,Cambodia,0-14 child,2
+http://www.wikidata.org/entity/Q424,Cambodia,15-24 youth,15
+http://www.wikidata.org/entity/Q424,Cambodia,25-59 adult,237
+http://www.wikidata.org/entity/Q424,Cambodia,60+ senior,163
+http://www.wikidata.org/entity/Q1009,Cameroon,15-24 youth,77
+http://www.wikidata.org/entity/Q1009,Cameroon,25-59 adult,1847
+http://www.wikidata.org/entity/Q1009,Cameroon,60+ senior,485
+http://www.wikidata.org/entity/Q16,Canada,0-14 child,32
+http://www.wikidata.org/entity/Q16,Canada,15-24 youth,677
+http://www.wikidata.org/entity/Q16,Canada,25-59 adult,20469
+http://www.wikidata.org/entity/Q16,Canada,60+ senior,15879
+http://www.wikidata.org/entity/Q1011,Cape Verde,15-24 youth,2
+http://www.wikidata.org/entity/Q1011,Cape Verde,25-59 adult,236
+http://www.wikidata.org/entity/Q1011,Cape Verde,60+ senior,86
+http://www.wikidata.org/entity/Q929,Central African Republic,15-24 youth,7
+http://www.wikidata.org/entity/Q929,Central African Republic,25-59 adult,134
+http://www.wikidata.org/entity/Q929,Central African Republic,60+ senior,59
+http://www.wikidata.org/entity/Q657,Chad,15-24 youth,3
+http://www.wikidata.org/entity/Q657,Chad,25-59 adult,165
+http://www.wikidata.org/entity/Q657,Chad,60+ senior,76
+http://www.wikidata.org/entity/Q298,Chile,0-14 child,1
+http://www.wikidata.org/entity/Q298,Chile,15-24 youth,124
+http://www.wikidata.org/entity/Q298,Chile,25-59 adult,4422
+http://www.wikidata.org/entity/Q298,Chile,60+ senior,2837
+http://www.wikidata.org/entity/Q739,Colombia,15-24 youth,221
+http://www.wikidata.org/entity/Q739,Colombia,25-59 adult,5497
+http://www.wikidata.org/entity/Q739,Colombia,60+ senior,2100
+http://www.wikidata.org/entity/Q970,Comoros,15-24 youth,18
+http://www.wikidata.org/entity/Q970,Comoros,25-59 adult,75
+http://www.wikidata.org/entity/Q970,Comoros,60+ senior,29
+http://www.wikidata.org/entity/Q800,Costa Rica,15-24 youth,42
+http://www.wikidata.org/entity/Q800,Costa Rica,25-59 adult,964
+http://www.wikidata.org/entity/Q800,Costa Rica,60+ senior,434
+http://www.wikidata.org/entity/Q224,Croatia,0-14 child,1
+http://www.wikidata.org/entity/Q224,Croatia,15-24 youth,138
+http://www.wikidata.org/entity/Q224,Croatia,25-59 adult,4185
+http://www.wikidata.org/entity/Q224,Croatia,60+ senior,2246
+http://www.wikidata.org/entity/Q241,Cuba,0-14 child,1
+http://www.wikidata.org/entity/Q241,Cuba,15-24 youth,37
+http://www.wikidata.org/entity/Q241,Cuba,25-59 adult,1908
+http://www.wikidata.org/entity/Q241,Cuba,60+ senior,1513
+http://www.wikidata.org/entity/Q229,Cyprus,0-14 child,2
+http://www.wikidata.org/entity/Q229,Cyprus,15-24 youth,47
+http://www.wikidata.org/entity/Q229,Cyprus,25-59 adult,863
+http://www.wikidata.org/entity/Q229,Cyprus,60+ senior,683
+http://www.wikidata.org/entity/Q213,Czech Republic,0-14 child,23
+http://www.wikidata.org/entity/Q213,Czech Republic,15-24 youth,724
+http://www.wikidata.org/entity/Q213,Czech Republic,25-59 adult,30615
+http://www.wikidata.org/entity/Q213,Czech Republic,60+ senior,40986
+http://www.wikidata.org/entity/Q974,Democratic Republic of the Congo,15-24 youth,27
+http://www.wikidata.org/entity/Q974,Democratic Republic of the Congo,25-59 adult,1370
+http://www.wikidata.org/entity/Q974,Democratic Republic of the Congo,60+ senior,564
+http://www.wikidata.org/entity/Q35,Denmark,0-14 child,1
+http://www.wikidata.org/entity/Q35,Denmark,15-24 youth,571
+http://www.wikidata.org/entity/Q35,Denmark,25-59 adult,5726
+http://www.wikidata.org/entity/Q35,Denmark,60+ senior,4038
+http://www.wikidata.org/entity/Q977,Djibouti,25-59 adult,44
+http://www.wikidata.org/entity/Q977,Djibouti,60+ senior,32
+http://www.wikidata.org/entity/Q784,Dominica,15-24 youth,2
+http://www.wikidata.org/entity/Q784,Dominica,25-59 adult,74
+http://www.wikidata.org/entity/Q784,Dominica,60+ senior,56
+http://www.wikidata.org/entity/Q786,Dominican Republic,0-14 child,1
+http://www.wikidata.org/entity/Q786,Dominican Republic,15-24 youth,56
+http://www.wikidata.org/entity/Q786,Dominican Republic,25-59 adult,1746
+http://www.wikidata.org/entity/Q786,Dominican Republic,60+ senior,568
+http://www.wikidata.org/entity/Q736,Ecuador,15-24 youth,71
+http://www.wikidata.org/entity/Q736,Ecuador,25-59 adult,1807
+http://www.wikidata.org/entity/Q736,Ecuador,60+ senior,656
+http://www.wikidata.org/entity/Q79,Egypt,0-14 child,1
+http://www.wikidata.org/entity/Q79,Egypt,15-24 youth,94
+http://www.wikidata.org/entity/Q79,Egypt,25-59 adult,2221
+http://www.wikidata.org/entity/Q79,Egypt,60+ senior,1807
+http://www.wikidata.org/entity/Q792,El Salvador,15-24 youth,8
+http://www.wikidata.org/entity/Q792,El Salvador,25-59 adult,512
+http://www.wikidata.org/entity/Q792,El Salvador,60+ senior,282
+http://www.wikidata.org/entity/Q983,Equatorial Guinea,15-24 youth,18
+http://www.wikidata.org/entity/Q983,Equatorial Guinea,25-59 adult,156
+http://www.wikidata.org/entity/Q983,Equatorial Guinea,60+ senior,56
+http://www.wikidata.org/entity/Q986,Eritrea,15-24 youth,2
+http://www.wikidata.org/entity/Q986,Eritrea,25-59 adult,132
+http://www.wikidata.org/entity/Q986,Eritrea,60+ senior,70
+http://www.wikidata.org/entity/Q191,Estonia,15-24 youth,150
+http://www.wikidata.org/entity/Q191,Estonia,25-59 adult,5349
+http://www.wikidata.org/entity/Q191,Estonia,60+ senior,6858
+http://www.wikidata.org/entity/Q1050,Eswatini,15-24 youth,5
+http://www.wikidata.org/entity/Q1050,Eswatini,25-59 adult,87
+http://www.wikidata.org/entity/Q1050,Eswatini,60+ senior,15
+http://www.wikidata.org/entity/Q115,Ethiopia,15-24 youth,17
+http://www.wikidata.org/entity/Q115,Ethiopia,25-59 adult,671
+http://www.wikidata.org/entity/Q115,Ethiopia,60+ senior,197
+http://www.wikidata.org/entity/Q702,Federated States of Micronesia,25-59 adult,24
 http://www.wikidata.org/entity/Q702,Federated States of Micronesia,60+ senior,11
-http://www.wikidata.org/entity/Q712,Fiji,13-20 teen,3
-http://www.wikidata.org/entity/Q712,Fiji,21-59 adult,573
-http://www.wikidata.org/entity/Q712,Fiji,60+ senior,92
-http://www.wikidata.org/entity/Q33,Finland,0-12 child,1
-http://www.wikidata.org/entity/Q33,Finland,13-20 teen,61
-http://www.wikidata.org/entity/Q33,Finland,21-59 adult,7902
-http://www.wikidata.org/entity/Q33,Finland,60+ senior,4876
-http://www.wikidata.org/entity/Q142,France,0-12 child,6
-http://www.wikidata.org/entity/Q142,France,13-20 teen,397
-http://www.wikidata.org/entity/Q142,France,21-59 adult,36995
-http://www.wikidata.org/entity/Q142,France,60+ senior,33148
-http://www.wikidata.org/entity/Q1000,Gabon,13-20 teen,4
-http://www.wikidata.org/entity/Q1000,Gabon,21-59 adult,279
-http://www.wikidata.org/entity/Q1000,Gabon,60+ senior,88
-http://www.wikidata.org/entity/Q230,Georgia,0-12 child,1
-http://www.wikidata.org/entity/Q230,Georgia,13-20 teen,16
-http://www.wikidata.org/entity/Q230,Georgia,21-59 adult,2548
-http://www.wikidata.org/entity/Q230,Georgia,60+ senior,2344
-http://www.wikidata.org/entity/Q183,Germany,0-12 child,16
-http://www.wikidata.org/entity/Q183,Germany,13-20 teen,654
-http://www.wikidata.org/entity/Q183,Germany,21-59 adult,65953
-http://www.wikidata.org/entity/Q183,Germany,60+ senior,74810
-http://www.wikidata.org/entity/Q117,Ghana,0-12 child,1
-http://www.wikidata.org/entity/Q117,Ghana,13-20 teen,21
-http://www.wikidata.org/entity/Q117,Ghana,21-59 adult,2226
-http://www.wikidata.org/entity/Q117,Ghana,60+ senior,745
-http://www.wikidata.org/entity/Q41,Greece,0-12 child,6
-http://www.wikidata.org/entity/Q41,Greece,13-20 teen,34
-http://www.wikidata.org/entity/Q41,Greece,21-59 adult,6061
-http://www.wikidata.org/entity/Q41,Greece,60+ senior,4509
-http://www.wikidata.org/entity/Q769,Grenada,21-59 adult,121
-http://www.wikidata.org/entity/Q769,Grenada,60+ senior,52
-http://www.wikidata.org/entity/Q774,Guatemala,0-12 child,1
-http://www.wikidata.org/entity/Q774,Guatemala,13-20 teen,3
-http://www.wikidata.org/entity/Q774,Guatemala,21-59 adult,573
-http://www.wikidata.org/entity/Q774,Guatemala,60+ senior,289
-http://www.wikidata.org/entity/Q1006,Guinea,13-20 teen,11
-http://www.wikidata.org/entity/Q1006,Guinea,21-59 adult,543
-http://www.wikidata.org/entity/Q1006,Guinea,60+ senior,174
-http://www.wikidata.org/entity/Q1007,Guinea-Bissau,13-20 teen,3
-http://www.wikidata.org/entity/Q1007,Guinea-Bissau,21-59 adult,225
-http://www.wikidata.org/entity/Q1007,Guinea-Bissau,60+ senior,66
-http://www.wikidata.org/entity/Q734,Guyana,21-59 adult,262
-http://www.wikidata.org/entity/Q734,Guyana,60+ senior,169
-http://www.wikidata.org/entity/Q790,Haiti,13-20 teen,2
-http://www.wikidata.org/entity/Q790,Haiti,21-59 adult,647
-http://www.wikidata.org/entity/Q790,Haiti,60+ senior,310
-http://www.wikidata.org/entity/Q783,Honduras,13-20 teen,9
-http://www.wikidata.org/entity/Q783,Honduras,21-59 adult,761
-http://www.wikidata.org/entity/Q783,Honduras,60+ senior,186
-http://www.wikidata.org/entity/Q28,Hungary,0-12 child,8
-http://www.wikidata.org/entity/Q28,Hungary,13-20 teen,79
-http://www.wikidata.org/entity/Q28,Hungary,21-59 adult,10293
-http://www.wikidata.org/entity/Q28,Hungary,60+ senior,10265
-http://www.wikidata.org/entity/Q189,Iceland,13-20 teen,2
-http://www.wikidata.org/entity/Q189,Iceland,21-59 adult,1127
-http://www.wikidata.org/entity/Q189,Iceland,60+ senior,482
-http://www.wikidata.org/entity/Q668,India,0-12 child,9
-http://www.wikidata.org/entity/Q668,India,13-20 teen,137
-http://www.wikidata.org/entity/Q668,India,21-59 adult,14417
-http://www.wikidata.org/entity/Q668,India,60+ senior,9404
-http://www.wikidata.org/entity/Q252,Indonesia,0-12 child,22
-http://www.wikidata.org/entity/Q252,Indonesia,13-20 teen,161
-http://www.wikidata.org/entity/Q252,Indonesia,21-59 adult,16394
-http://www.wikidata.org/entity/Q252,Indonesia,60+ senior,7150
-http://www.wikidata.org/entity/Q794,Iran,0-12 child,4
-http://www.wikidata.org/entity/Q794,Iran,13-20 teen,127
-http://www.wikidata.org/entity/Q794,Iran,21-59 adult,6895
-http://www.wikidata.org/entity/Q794,Iran,60+ senior,4237
-http://www.wikidata.org/entity/Q796,Iraq,13-20 teen,6
-http://www.wikidata.org/entity/Q796,Iraq,21-59 adult,1236
-http://www.wikidata.org/entity/Q796,Iraq,60+ senior,1612
-http://www.wikidata.org/entity/Q27,Ireland,13-20 teen,29
-http://www.wikidata.org/entity/Q27,Ireland,21-59 adult,4888
-http://www.wikidata.org/entity/Q27,Ireland,60+ senior,2521
-http://www.wikidata.org/entity/Q801,Israel,0-12 child,1
-http://www.wikidata.org/entity/Q801,Israel,13-20 teen,73
-http://www.wikidata.org/entity/Q801,Israel,21-59 adult,8169
-http://www.wikidata.org/entity/Q801,Israel,60+ senior,6600
-http://www.wikidata.org/entity/Q38,Italy,0-12 child,10
-http://www.wikidata.org/entity/Q38,Italy,13-20 teen,283
-http://www.wikidata.org/entity/Q38,Italy,21-59 adult,34615
-http://www.wikidata.org/entity/Q38,Italy,60+ senior,34299
-http://www.wikidata.org/entity/Q1008,Ivory Coast,13-20 teen,15
-http://www.wikidata.org/entity/Q1008,Ivory Coast,21-59 adult,1405
-http://www.wikidata.org/entity/Q1008,Ivory Coast,60+ senior,290
-http://www.wikidata.org/entity/Q766,Jamaica,13-20 teen,3
-http://www.wikidata.org/entity/Q766,Jamaica,21-59 adult,1234
-http://www.wikidata.org/entity/Q766,Jamaica,60+ senior,684
-http://www.wikidata.org/entity/Q17,Japan,0-12 child,20
-http://www.wikidata.org/entity/Q17,Japan,13-20 teen,800
-http://www.wikidata.org/entity/Q17,Japan,21-59 adult,60016
-http://www.wikidata.org/entity/Q17,Japan,60+ senior,34784
-http://www.wikidata.org/entity/Q810,Jordan,0-12 child,1
-http://www.wikidata.org/entity/Q810,Jordan,13-20 teen,6
-http://www.wikidata.org/entity/Q810,Jordan,21-59 adult,588
-http://www.wikidata.org/entity/Q810,Jordan,60+ senior,266
-http://www.wikidata.org/entity/Q232,Kazakhstan,0-12 child,1
-http://www.wikidata.org/entity/Q232,Kazakhstan,13-20 teen,38
-http://www.wikidata.org/entity/Q232,Kazakhstan,21-59 adult,3531
-http://www.wikidata.org/entity/Q232,Kazakhstan,60+ senior,3081
-http://www.wikidata.org/entity/Q114,Kenya,13-20 teen,5
-http://www.wikidata.org/entity/Q114,Kenya,21-59 adult,1439
-http://www.wikidata.org/entity/Q114,Kenya,60+ senior,432
-http://www.wikidata.org/entity/Q29999,Kingdom of the Netherlands,13-20 teen,3
-http://www.wikidata.org/entity/Q29999,Kingdom of the Netherlands,21-59 adult,507
-http://www.wikidata.org/entity/Q29999,Kingdom of the Netherlands,60+ senior,330
-http://www.wikidata.org/entity/Q710,Kiribati,21-59 adult,30
+http://www.wikidata.org/entity/Q712,Fiji,15-24 youth,10
+http://www.wikidata.org/entity/Q712,Fiji,25-59 adult,569
+http://www.wikidata.org/entity/Q712,Fiji,60+ senior,91
+http://www.wikidata.org/entity/Q33,Finland,0-14 child,1
+http://www.wikidata.org/entity/Q33,Finland,15-24 youth,230
+http://www.wikidata.org/entity/Q33,Finland,25-59 adult,7564
+http://www.wikidata.org/entity/Q33,Finland,60+ senior,5125
+http://www.wikidata.org/entity/Q142,France,0-14 child,11
+http://www.wikidata.org/entity/Q142,France,15-24 youth,1342
+http://www.wikidata.org/entity/Q142,France,25-59 adult,34975
+http://www.wikidata.org/entity/Q142,France,60+ senior,34552
+http://www.wikidata.org/entity/Q1000,Gabon,15-24 youth,19
+http://www.wikidata.org/entity/Q1000,Gabon,25-59 adult,264
+http://www.wikidata.org/entity/Q1000,Gabon,60+ senior,96
+http://www.wikidata.org/entity/Q230,Georgia,0-14 child,1
+http://www.wikidata.org/entity/Q230,Georgia,15-24 youth,51
+http://www.wikidata.org/entity/Q230,Georgia,25-59 adult,2456
+http://www.wikidata.org/entity/Q230,Georgia,60+ senior,2405
+http://www.wikidata.org/entity/Q183,Germany,0-14 child,32
+http://www.wikidata.org/entity/Q183,Germany,15-24 youth,1960
+http://www.wikidata.org/entity/Q183,Germany,25-59 adult,62166
+http://www.wikidata.org/entity/Q183,Germany,60+ senior,77940
+http://www.wikidata.org/entity/Q117,Ghana,0-14 child,2
+http://www.wikidata.org/entity/Q117,Ghana,15-24 youth,111
+http://www.wikidata.org/entity/Q117,Ghana,25-59 adult,2104
+http://www.wikidata.org/entity/Q117,Ghana,60+ senior,786
+http://www.wikidata.org/entity/Q41,Greece,0-14 child,8
+http://www.wikidata.org/entity/Q41,Greece,15-24 youth,187
+http://www.wikidata.org/entity/Q41,Greece,25-59 adult,5820
+http://www.wikidata.org/entity/Q41,Greece,60+ senior,4702
+http://www.wikidata.org/entity/Q769,Grenada,15-24 youth,2
+http://www.wikidata.org/entity/Q769,Grenada,25-59 adult,118
+http://www.wikidata.org/entity/Q769,Grenada,60+ senior,53
+http://www.wikidata.org/entity/Q774,Guatemala,0-14 child,1
+http://www.wikidata.org/entity/Q774,Guatemala,15-24 youth,17
+http://www.wikidata.org/entity/Q774,Guatemala,25-59 adult,553
+http://www.wikidata.org/entity/Q774,Guatemala,60+ senior,297
+http://www.wikidata.org/entity/Q1006,Guinea,15-24 youth,40
+http://www.wikidata.org/entity/Q1006,Guinea,25-59 adult,517
+http://www.wikidata.org/entity/Q1006,Guinea,60+ senior,178
+http://www.wikidata.org/entity/Q1007,Guinea-Bissau,15-24 youth,21
+http://www.wikidata.org/entity/Q1007,Guinea-Bissau,25-59 adult,206
+http://www.wikidata.org/entity/Q1007,Guinea-Bissau,60+ senior,71
+http://www.wikidata.org/entity/Q734,Guyana,15-24 youth,3
+http://www.wikidata.org/entity/Q734,Guyana,25-59 adult,254
+http://www.wikidata.org/entity/Q734,Guyana,60+ senior,174
+http://www.wikidata.org/entity/Q790,Haiti,15-24 youth,28
+http://www.wikidata.org/entity/Q790,Haiti,25-59 adult,622
+http://www.wikidata.org/entity/Q790,Haiti,60+ senior,320
+http://www.wikidata.org/entity/Q783,Honduras,15-24 youth,20
+http://www.wikidata.org/entity/Q783,Honduras,25-59 adult,742
+http://www.wikidata.org/entity/Q783,Honduras,60+ senior,197
+http://www.wikidata.org/entity/Q28,Hungary,0-14 child,10
+http://www.wikidata.org/entity/Q28,Hungary,15-24 youth,306
+http://www.wikidata.org/entity/Q28,Hungary,25-59 adult,9801
+http://www.wikidata.org/entity/Q28,Hungary,60+ senior,10556
+http://www.wikidata.org/entity/Q189,Iceland,15-24 youth,38
+http://www.wikidata.org/entity/Q189,Iceland,25-59 adult,1082
+http://www.wikidata.org/entity/Q189,Iceland,60+ senior,503
+http://www.wikidata.org/entity/Q668,India,0-14 child,12
+http://www.wikidata.org/entity/Q668,India,15-24 youth,416
+http://www.wikidata.org/entity/Q668,India,25-59 adult,13899
+http://www.wikidata.org/entity/Q668,India,60+ senior,9763
+http://www.wikidata.org/entity/Q252,Indonesia,0-14 child,27
+http://www.wikidata.org/entity/Q252,Indonesia,15-24 youth,492
+http://www.wikidata.org/entity/Q252,Indonesia,25-59 adult,15704
+http://www.wikidata.org/entity/Q252,Indonesia,60+ senior,7675
+http://www.wikidata.org/entity/Q794,Iran,0-14 child,5
+http://www.wikidata.org/entity/Q794,Iran,15-24 youth,355
+http://www.wikidata.org/entity/Q794,Iran,25-59 adult,6571
+http://www.wikidata.org/entity/Q794,Iran,60+ senior,4388
+http://www.wikidata.org/entity/Q796,Iraq,15-24 youth,24
+http://www.wikidata.org/entity/Q796,Iraq,25-59 adult,1179
+http://www.wikidata.org/entity/Q796,Iraq,60+ senior,1661
+http://www.wikidata.org/entity/Q27,Ireland,15-24 youth,111
+http://www.wikidata.org/entity/Q27,Ireland,25-59 adult,4724
+http://www.wikidata.org/entity/Q27,Ireland,60+ senior,2615
+http://www.wikidata.org/entity/Q801,Israel,0-14 child,2
+http://www.wikidata.org/entity/Q801,Israel,15-24 youth,255
+http://www.wikidata.org/entity/Q801,Israel,25-59 adult,7845
+http://www.wikidata.org/entity/Q801,Israel,60+ senior,6884
+http://www.wikidata.org/entity/Q38,Italy,0-14 child,12
+http://www.wikidata.org/entity/Q38,Italy,15-24 youth,1101
+http://www.wikidata.org/entity/Q38,Italy,25-59 adult,32805
+http://www.wikidata.org/entity/Q38,Italy,60+ senior,35621
+http://www.wikidata.org/entity/Q1008,Ivory Coast,15-24 youth,86
+http://www.wikidata.org/entity/Q1008,Ivory Coast,25-59 adult,1327
+http://www.wikidata.org/entity/Q1008,Ivory Coast,60+ senior,312
+http://www.wikidata.org/entity/Q766,Jamaica,15-24 youth,20
+http://www.wikidata.org/entity/Q766,Jamaica,25-59 adult,1198
+http://www.wikidata.org/entity/Q766,Jamaica,60+ senior,710
+http://www.wikidata.org/entity/Q17,Japan,0-14 child,31
+http://www.wikidata.org/entity/Q17,Japan,15-24 youth,2322
+http://www.wikidata.org/entity/Q17,Japan,25-59 adult,57526
+http://www.wikidata.org/entity/Q17,Japan,60+ senior,36030
+http://www.wikidata.org/entity/Q810,Jordan,0-14 child,1
+http://www.wikidata.org/entity/Q810,Jordan,15-24 youth,18
+http://www.wikidata.org/entity/Q810,Jordan,25-59 adult,571
+http://www.wikidata.org/entity/Q810,Jordan,60+ senior,277
+http://www.wikidata.org/entity/Q232,Kazakhstan,0-14 child,1
+http://www.wikidata.org/entity/Q232,Kazakhstan,15-24 youth,159
+http://www.wikidata.org/entity/Q232,Kazakhstan,25-59 adult,3378
+http://www.wikidata.org/entity/Q232,Kazakhstan,60+ senior,3211
+http://www.wikidata.org/entity/Q114,Kenya,15-24 youth,23
+http://www.wikidata.org/entity/Q114,Kenya,25-59 adult,1410
+http://www.wikidata.org/entity/Q114,Kenya,60+ senior,453
+http://www.wikidata.org/entity/Q29999,Kingdom of the Netherlands,15-24 youth,20
+http://www.wikidata.org/entity/Q29999,Kingdom of the Netherlands,25-59 adult,486
+http://www.wikidata.org/entity/Q29999,Kingdom of the Netherlands,60+ senior,353
+http://www.wikidata.org/entity/Q710,Kiribati,25-59 adult,30
 http://www.wikidata.org/entity/Q710,Kiribati,60+ senior,11
-http://www.wikidata.org/entity/Q817,Kuwait,13-20 teen,1
-http://www.wikidata.org/entity/Q817,Kuwait,21-59 adult,445
-http://www.wikidata.org/entity/Q817,Kuwait,60+ senior,188
-http://www.wikidata.org/entity/Q813,Kyrgyzstan,13-20 teen,3
-http://www.wikidata.org/entity/Q813,Kyrgyzstan,21-59 adult,616
-http://www.wikidata.org/entity/Q813,Kyrgyzstan,60+ senior,527
-http://www.wikidata.org/entity/Q819,Laos,13-20 teen,2
-http://www.wikidata.org/entity/Q819,Laos,21-59 adult,140
-http://www.wikidata.org/entity/Q819,Laos,60+ senior,64
-http://www.wikidata.org/entity/Q211,Latvia,13-20 teen,16
-http://www.wikidata.org/entity/Q211,Latvia,21-59 adult,2410
-http://www.wikidata.org/entity/Q211,Latvia,60+ senior,1390
-http://www.wikidata.org/entity/Q822,Lebanon,13-20 teen,7
-http://www.wikidata.org/entity/Q822,Lebanon,21-59 adult,1247
-http://www.wikidata.org/entity/Q822,Lebanon,60+ senior,1011
-http://www.wikidata.org/entity/Q1013,Lesotho,13-20 teen,2
-http://www.wikidata.org/entity/Q1013,Lesotho,21-59 adult,112
-http://www.wikidata.org/entity/Q1013,Lesotho,60+ senior,31
-http://www.wikidata.org/entity/Q1014,Liberia,13-20 teen,6
-http://www.wikidata.org/entity/Q1014,Liberia,21-59 adult,341
-http://www.wikidata.org/entity/Q1014,Liberia,60+ senior,41
-http://www.wikidata.org/entity/Q1016,Libya,13-20 teen,1
-http://www.wikidata.org/entity/Q1016,Libya,21-59 adult,254
-http://www.wikidata.org/entity/Q1016,Libya,60+ senior,216
-http://www.wikidata.org/entity/Q347,Liechtenstein,13-20 teen,1
-http://www.wikidata.org/entity/Q347,Liechtenstein,21-59 adult,142
-http://www.wikidata.org/entity/Q347,Liechtenstein,60+ senior,115
-http://www.wikidata.org/entity/Q37,Lithuania,0-12 child,1
-http://www.wikidata.org/entity/Q37,Lithuania,13-20 teen,15
-http://www.wikidata.org/entity/Q37,Lithuania,21-59 adult,2601
-http://www.wikidata.org/entity/Q37,Lithuania,60+ senior,3328
-http://www.wikidata.org/entity/Q32,Luxembourg,0-12 child,5
-http://www.wikidata.org/entity/Q32,Luxembourg,13-20 teen,13
-http://www.wikidata.org/entity/Q32,Luxembourg,21-59 adult,811
-http://www.wikidata.org/entity/Q32,Luxembourg,60+ senior,764
-http://www.wikidata.org/entity/Q1019,Madagascar,13-20 teen,2
-http://www.wikidata.org/entity/Q1019,Madagascar,21-59 adult,222
-http://www.wikidata.org/entity/Q1019,Madagascar,60+ senior,133
-http://www.wikidata.org/entity/Q1020,Malawi,13-20 teen,4
-http://www.wikidata.org/entity/Q1020,Malawi,21-59 adult,173
-http://www.wikidata.org/entity/Q1020,Malawi,60+ senior,39
-http://www.wikidata.org/entity/Q833,Malaysia,0-12 child,6
-http://www.wikidata.org/entity/Q833,Malaysia,13-20 teen,30
-http://www.wikidata.org/entity/Q833,Malaysia,21-59 adult,3240
-http://www.wikidata.org/entity/Q833,Malaysia,60+ senior,1101
-http://www.wikidata.org/entity/Q826,Maldives,21-59 adult,181
-http://www.wikidata.org/entity/Q826,Maldives,60+ senior,32
-http://www.wikidata.org/entity/Q912,Mali,13-20 teen,16
-http://www.wikidata.org/entity/Q912,Mali,21-59 adult,571
-http://www.wikidata.org/entity/Q912,Mali,60+ senior,267
-http://www.wikidata.org/entity/Q233,Malta,13-20 teen,2
-http://www.wikidata.org/entity/Q233,Malta,21-59 adult,361
-http://www.wikidata.org/entity/Q233,Malta,60+ senior,273
-http://www.wikidata.org/entity/Q709,Marshall Islands,21-59 adult,13
+http://www.wikidata.org/entity/Q817,Kuwait,15-24 youth,3
+http://www.wikidata.org/entity/Q817,Kuwait,25-59 adult,430
+http://www.wikidata.org/entity/Q817,Kuwait,60+ senior,205
+http://www.wikidata.org/entity/Q813,Kyrgyzstan,15-24 youth,16
+http://www.wikidata.org/entity/Q813,Kyrgyzstan,25-59 adult,596
+http://www.wikidata.org/entity/Q813,Kyrgyzstan,60+ senior,556
+http://www.wikidata.org/entity/Q819,Laos,15-24 youth,6
+http://www.wikidata.org/entity/Q819,Laos,25-59 adult,135
+http://www.wikidata.org/entity/Q819,Laos,60+ senior,68
+http://www.wikidata.org/entity/Q211,Latvia,15-24 youth,78
+http://www.wikidata.org/entity/Q211,Latvia,25-59 adult,2321
+http://www.wikidata.org/entity/Q211,Latvia,60+ senior,1443
+http://www.wikidata.org/entity/Q822,Lebanon,15-24 youth,27
+http://www.wikidata.org/entity/Q822,Lebanon,25-59 adult,1188
+http://www.wikidata.org/entity/Q822,Lebanon,60+ senior,1049
+http://www.wikidata.org/entity/Q1013,Lesotho,15-24 youth,5
+http://www.wikidata.org/entity/Q1013,Lesotho,25-59 adult,108
+http://www.wikidata.org/entity/Q1013,Lesotho,60+ senior,32
+http://www.wikidata.org/entity/Q1014,Liberia,15-24 youth,12
+http://www.wikidata.org/entity/Q1014,Liberia,25-59 adult,335
+http://www.wikidata.org/entity/Q1014,Liberia,60+ senior,45
+http://www.wikidata.org/entity/Q1016,Libya,15-24 youth,5
+http://www.wikidata.org/entity/Q1016,Libya,25-59 adult,242
+http://www.wikidata.org/entity/Q1016,Libya,60+ senior,224
+http://www.wikidata.org/entity/Q347,Liechtenstein,15-24 youth,8
+http://www.wikidata.org/entity/Q347,Liechtenstein,25-59 adult,138
+http://www.wikidata.org/entity/Q347,Liechtenstein,60+ senior,113
+http://www.wikidata.org/entity/Q37,Lithuania,0-14 child,1
+http://www.wikidata.org/entity/Q37,Lithuania,15-24 youth,63
+http://www.wikidata.org/entity/Q37,Lithuania,25-59 adult,2473
+http://www.wikidata.org/entity/Q37,Lithuania,60+ senior,3398
+http://www.wikidata.org/entity/Q32,Luxembourg,0-14 child,5
+http://www.wikidata.org/entity/Q32,Luxembourg,15-24 youth,27
+http://www.wikidata.org/entity/Q32,Luxembourg,25-59 adult,793
+http://www.wikidata.org/entity/Q32,Luxembourg,60+ senior,836
+http://www.wikidata.org/entity/Q1019,Madagascar,15-24 youth,3
+http://www.wikidata.org/entity/Q1019,Madagascar,25-59 adult,216
+http://www.wikidata.org/entity/Q1019,Madagascar,60+ senior,141
+http://www.wikidata.org/entity/Q1020,Malawi,15-24 youth,11
+http://www.wikidata.org/entity/Q1020,Malawi,25-59 adult,170
+http://www.wikidata.org/entity/Q1020,Malawi,60+ senior,41
+http://www.wikidata.org/entity/Q833,Malaysia,0-14 child,8
+http://www.wikidata.org/entity/Q833,Malaysia,15-24 youth,98
+http://www.wikidata.org/entity/Q833,Malaysia,25-59 adult,3342
+http://www.wikidata.org/entity/Q833,Malaysia,60+ senior,1207
+http://www.wikidata.org/entity/Q826,Maldives,15-24 youth,2
+http://www.wikidata.org/entity/Q826,Maldives,25-59 adult,178
+http://www.wikidata.org/entity/Q826,Maldives,60+ senior,39
+http://www.wikidata.org/entity/Q912,Mali,15-24 youth,50
+http://www.wikidata.org/entity/Q912,Mali,25-59 adult,534
+http://www.wikidata.org/entity/Q912,Mali,60+ senior,273
+http://www.wikidata.org/entity/Q233,Malta,15-24 youth,10
+http://www.wikidata.org/entity/Q233,Malta,25-59 adult,350
+http://www.wikidata.org/entity/Q233,Malta,60+ senior,276
+http://www.wikidata.org/entity/Q709,Marshall Islands,25-59 adult,14
 http://www.wikidata.org/entity/Q709,Marshall Islands,60+ senior,6
-http://www.wikidata.org/entity/Q1025,Mauritania,13-20 teen,1
-http://www.wikidata.org/entity/Q1025,Mauritania,21-59 adult,122
-http://www.wikidata.org/entity/Q1025,Mauritania,60+ senior,85
-http://www.wikidata.org/entity/Q1027,Mauritius,21-59 adult,216
-http://www.wikidata.org/entity/Q1027,Mauritius,60+ senior,79
-http://www.wikidata.org/entity/Q96,Mexico,0-12 child,7
-http://www.wikidata.org/entity/Q96,Mexico,13-20 teen,123
-http://www.wikidata.org/entity/Q96,Mexico,21-59 adult,9714
-http://www.wikidata.org/entity/Q96,Mexico,60+ senior,5674
-http://www.wikidata.org/entity/Q217,Moldova,13-20 teen,7
-http://www.wikidata.org/entity/Q217,Moldova,21-59 adult,1368
-http://www.wikidata.org/entity/Q217,Moldova,60+ senior,771
-http://www.wikidata.org/entity/Q235,Monaco,0-12 child,4
-http://www.wikidata.org/entity/Q235,Monaco,13-20 teen,2
-http://www.wikidata.org/entity/Q235,Monaco,21-59 adult,118
-http://www.wikidata.org/entity/Q235,Monaco,60+ senior,86
-http://www.wikidata.org/entity/Q711,Mongolia,21-59 adult,507
-http://www.wikidata.org/entity/Q711,Mongolia,60+ senior,278
-http://www.wikidata.org/entity/Q236,Montenegro,13-20 teen,12
-http://www.wikidata.org/entity/Q236,Montenegro,21-59 adult,1090
-http://www.wikidata.org/entity/Q236,Montenegro,60+ senior,377
-http://www.wikidata.org/entity/Q1028,Morocco,0-12 child,2
-http://www.wikidata.org/entity/Q1028,Morocco,13-20 teen,32
-http://www.wikidata.org/entity/Q1028,Morocco,21-59 adult,2284
-http://www.wikidata.org/entity/Q1028,Morocco,60+ senior,2020
-http://www.wikidata.org/entity/Q1029,Mozambique,21-59 adult,344
-http://www.wikidata.org/entity/Q1029,Mozambique,60+ senior,215
-http://www.wikidata.org/entity/Q836,Myanmar,13-20 teen,6
-http://www.wikidata.org/entity/Q836,Myanmar,21-59 adult,628
-http://www.wikidata.org/entity/Q836,Myanmar,60+ senior,444
-http://www.wikidata.org/entity/Q1030,Namibia,13-20 teen,6
-http://www.wikidata.org/entity/Q1030,Namibia,21-59 adult,513
-http://www.wikidata.org/entity/Q1030,Namibia,60+ senior,137
-http://www.wikidata.org/entity/Q697,Nauru,21-59 adult,36
-http://www.wikidata.org/entity/Q697,Nauru,60+ senior,15
-http://www.wikidata.org/entity/Q837,Nepal,0-12 child,2
-http://www.wikidata.org/entity/Q837,Nepal,13-20 teen,8
-http://www.wikidata.org/entity/Q837,Nepal,21-59 adult,664
-http://www.wikidata.org/entity/Q837,Nepal,60+ senior,285
-http://www.wikidata.org/entity/Q664,New Zealand,0-12 child,4
-http://www.wikidata.org/entity/Q664,New Zealand,13-20 teen,37
-http://www.wikidata.org/entity/Q664,New Zealand,21-59 adult,5337
-http://www.wikidata.org/entity/Q664,New Zealand,60+ senior,2847
-http://www.wikidata.org/entity/Q811,Nicaragua,13-20 teen,2
-http://www.wikidata.org/entity/Q811,Nicaragua,21-59 adult,294
+http://www.wikidata.org/entity/Q1025,Mauritania,15-24 youth,2
+http://www.wikidata.org/entity/Q1025,Mauritania,25-59 adult,120
+http://www.wikidata.org/entity/Q1025,Mauritania,60+ senior,87
+http://www.wikidata.org/entity/Q1027,Mauritius,15-24 youth,1
+http://www.wikidata.org/entity/Q1027,Mauritius,25-59 adult,213
+http://www.wikidata.org/entity/Q1027,Mauritius,60+ senior,82
+http://www.wikidata.org/entity/Q96,Mexico,0-14 child,8
+http://www.wikidata.org/entity/Q96,Mexico,15-24 youth,323
+http://www.wikidata.org/entity/Q96,Mexico,25-59 adult,9315
+http://www.wikidata.org/entity/Q96,Mexico,60+ senior,5952
+http://www.wikidata.org/entity/Q217,Moldova,15-24 youth,40
+http://www.wikidata.org/entity/Q217,Moldova,25-59 adult,1309
+http://www.wikidata.org/entity/Q217,Moldova,60+ senior,809
+http://www.wikidata.org/entity/Q235,Monaco,0-14 child,4
+http://www.wikidata.org/entity/Q235,Monaco,15-24 youth,8
+http://www.wikidata.org/entity/Q235,Monaco,25-59 adult,105
+http://www.wikidata.org/entity/Q235,Monaco,60+ senior,91
+http://www.wikidata.org/entity/Q711,Mongolia,15-24 youth,9
+http://www.wikidata.org/entity/Q711,Mongolia,25-59 adult,502
+http://www.wikidata.org/entity/Q711,Mongolia,60+ senior,297
+http://www.wikidata.org/entity/Q236,Montenegro,15-24 youth,50
+http://www.wikidata.org/entity/Q236,Montenegro,25-59 adult,1041
+http://www.wikidata.org/entity/Q236,Montenegro,60+ senior,394
+http://www.wikidata.org/entity/Q1028,Morocco,0-14 child,1
+http://www.wikidata.org/entity/Q1028,Morocco,15-24 youth,78
+http://www.wikidata.org/entity/Q1028,Morocco,25-59 adult,2200
+http://www.wikidata.org/entity/Q1028,Morocco,60+ senior,2100
+http://www.wikidata.org/entity/Q1029,Mozambique,15-24 youth,3
+http://www.wikidata.org/entity/Q1029,Mozambique,25-59 adult,335
+http://www.wikidata.org/entity/Q1029,Mozambique,60+ senior,225
+http://www.wikidata.org/entity/Q836,Myanmar,15-24 youth,8
+http://www.wikidata.org/entity/Q836,Myanmar,25-59 adult,603
+http://www.wikidata.org/entity/Q836,Myanmar,60+ senior,482
+http://www.wikidata.org/entity/Q1030,Namibia,15-24 youth,12
+http://www.wikidata.org/entity/Q1030,Namibia,25-59 adult,497
+http://www.wikidata.org/entity/Q1030,Namibia,60+ senior,147
+http://www.wikidata.org/entity/Q697,Nauru,25-59 adult,34
+http://www.wikidata.org/entity/Q697,Nauru,60+ senior,16
+http://www.wikidata.org/entity/Q837,Nepal,0-14 child,2
+http://www.wikidata.org/entity/Q837,Nepal,15-24 youth,22
+http://www.wikidata.org/entity/Q837,Nepal,25-59 adult,644
+http://www.wikidata.org/entity/Q837,Nepal,60+ senior,293
+http://www.wikidata.org/entity/Q664,New Zealand,0-14 child,4
+http://www.wikidata.org/entity/Q664,New Zealand,15-24 youth,147
+http://www.wikidata.org/entity/Q664,New Zealand,25-59 adult,5148
+http://www.wikidata.org/entity/Q664,New Zealand,60+ senior,2948
+http://www.wikidata.org/entity/Q811,Nicaragua,15-24 youth,11
+http://www.wikidata.org/entity/Q811,Nicaragua,25-59 adult,287
 http://www.wikidata.org/entity/Q811,Nicaragua,60+ senior,175
-http://www.wikidata.org/entity/Q1032,Niger,13-20 teen,3
-http://www.wikidata.org/entity/Q1032,Niger,21-59 adult,164
-http://www.wikidata.org/entity/Q1032,Niger,60+ senior,154
-http://www.wikidata.org/entity/Q1033,Nigeria,0-12 child,3
-http://www.wikidata.org/entity/Q1033,Nigeria,13-20 teen,63
-http://www.wikidata.org/entity/Q1033,Nigeria,21-59 adult,4839
-http://www.wikidata.org/entity/Q1033,Nigeria,60+ senior,1951
-http://www.wikidata.org/entity/Q423,North Korea,0-12 child,1
-http://www.wikidata.org/entity/Q423,North Korea,13-20 teen,2
-http://www.wikidata.org/entity/Q423,North Korea,21-59 adult,363
-http://www.wikidata.org/entity/Q423,North Korea,60+ senior,239
-http://www.wikidata.org/entity/Q221,North Macedonia,13-20 teen,11
-http://www.wikidata.org/entity/Q221,North Macedonia,21-59 adult,1645
-http://www.wikidata.org/entity/Q221,North Macedonia,60+ senior,1121
-http://www.wikidata.org/entity/Q20,Norway,13-20 teen,108
-http://www.wikidata.org/entity/Q20,Norway,21-59 adult,8785
-http://www.wikidata.org/entity/Q20,Norway,60+ senior,5825
-http://www.wikidata.org/entity/Q842,Oman,13-20 teen,6
-http://www.wikidata.org/entity/Q842,Oman,21-59 adult,223
-http://www.wikidata.org/entity/Q842,Oman,60+ senior,17
-http://www.wikidata.org/entity/Q843,Pakistan,0-12 child,1
-http://www.wikidata.org/entity/Q843,Pakistan,13-20 teen,18
-http://www.wikidata.org/entity/Q843,Pakistan,21-59 adult,2902
-http://www.wikidata.org/entity/Q843,Pakistan,60+ senior,1651
-http://www.wikidata.org/entity/Q695,Palau,13-20 teen,2
-http://www.wikidata.org/entity/Q695,Palau,21-59 adult,15
-http://www.wikidata.org/entity/Q695,Palau,60+ senior,17
-http://www.wikidata.org/entity/Q219060,Palestine,13-20 teen,12
-http://www.wikidata.org/entity/Q219060,Palestine,21-59 adult,1513
-http://www.wikidata.org/entity/Q219060,Palestine,60+ senior,1778
-http://www.wikidata.org/entity/Q804,Panama,13-20 teen,10
-http://www.wikidata.org/entity/Q804,Panama,21-59 adult,774
-http://www.wikidata.org/entity/Q804,Panama,60+ senior,284
-http://www.wikidata.org/entity/Q691,Papua New Guinea,21-59 adult,292
-http://www.wikidata.org/entity/Q691,Papua New Guinea,60+ senior,55
-http://www.wikidata.org/entity/Q733,Paraguay,0-12 child,1
-http://www.wikidata.org/entity/Q733,Paraguay,13-20 teen,17
-http://www.wikidata.org/entity/Q733,Paraguay,21-59 adult,1301
-http://www.wikidata.org/entity/Q733,Paraguay,60+ senior,349
-http://www.wikidata.org/entity/Q148,People's Republic of China,0-12 child,8
-http://www.wikidata.org/entity/Q148,People's Republic of China,13-20 teen,279
-http://www.wikidata.org/entity/Q148,People's Republic of China,21-59 adult,11871
-http://www.wikidata.org/entity/Q148,People's Republic of China,60+ senior,7471
-http://www.wikidata.org/entity/Q419,Peru,13-20 teen,137
-http://www.wikidata.org/entity/Q419,Peru,21-59 adult,3376
-http://www.wikidata.org/entity/Q419,Peru,60+ senior,2106
-http://www.wikidata.org/entity/Q928,Philippines,0-12 child,7
-http://www.wikidata.org/entity/Q928,Philippines,13-20 teen,50
-http://www.wikidata.org/entity/Q928,Philippines,21-59 adult,2783
-http://www.wikidata.org/entity/Q928,Philippines,60+ senior,1255
-http://www.wikidata.org/entity/Q36,Poland,0-12 child,2
-http://www.wikidata.org/entity/Q36,Poland,13-20 teen,118
-http://www.wikidata.org/entity/Q36,Poland,21-59 adult,18464
-http://www.wikidata.org/entity/Q36,Poland,60+ senior,21936
-http://www.wikidata.org/entity/Q45,Portugal,0-12 child,1
-http://www.wikidata.org/entity/Q45,Portugal,13-20 teen,61
-http://www.wikidata.org/entity/Q45,Portugal,21-59 adult,5267
-http://www.wikidata.org/entity/Q45,Portugal,60+ senior,2887
-http://www.wikidata.org/entity/Q846,Qatar,13-20 teen,6
-http://www.wikidata.org/entity/Q846,Qatar,21-59 adult,544
-http://www.wikidata.org/entity/Q846,Qatar,60+ senior,71
-http://www.wikidata.org/entity/Q971,Republic of the Congo,13-20 teen,4
-http://www.wikidata.org/entity/Q971,Republic of the Congo,21-59 adult,318
-http://www.wikidata.org/entity/Q971,Republic of the Congo,60+ senior,184
-http://www.wikidata.org/entity/Q218,Romania,13-20 teen,70
-http://www.wikidata.org/entity/Q218,Romania,21-59 adult,7912
-http://www.wikidata.org/entity/Q218,Romania,60+ senior,5885
-http://www.wikidata.org/entity/Q159,Russia,0-12 child,25
-http://www.wikidata.org/entity/Q159,Russia,13-20 teen,353
-http://www.wikidata.org/entity/Q159,Russia,21-59 adult,32133
-http://www.wikidata.org/entity/Q159,Russia,60+ senior,26883
-http://www.wikidata.org/entity/Q1037,Rwanda,21-59 adult,283
-http://www.wikidata.org/entity/Q1037,Rwanda,60+ senior,125
-http://www.wikidata.org/entity/Q763,Saint Kitts and Nevis,21-59 adult,135
+http://www.wikidata.org/entity/Q1032,Niger,15-24 youth,8
+http://www.wikidata.org/entity/Q1032,Niger,25-59 adult,151
+http://www.wikidata.org/entity/Q1032,Niger,60+ senior,163
+http://www.wikidata.org/entity/Q1033,Nigeria,0-14 child,3
+http://www.wikidata.org/entity/Q1033,Nigeria,15-24 youth,225
+http://www.wikidata.org/entity/Q1033,Nigeria,25-59 adult,4627
+http://www.wikidata.org/entity/Q1033,Nigeria,60+ senior,2047
+http://www.wikidata.org/entity/Q423,North Korea,0-14 child,1
+http://www.wikidata.org/entity/Q423,North Korea,15-24 youth,7
+http://www.wikidata.org/entity/Q423,North Korea,25-59 adult,357
+http://www.wikidata.org/entity/Q423,North Korea,60+ senior,243
+http://www.wikidata.org/entity/Q221,North Macedonia,15-24 youth,45
+http://www.wikidata.org/entity/Q221,North Macedonia,25-59 adult,1594
+http://www.wikidata.org/entity/Q221,North Macedonia,60+ senior,1315
+http://www.wikidata.org/entity/Q20,Norway,0-14 child,1
+http://www.wikidata.org/entity/Q20,Norway,15-24 youth,372
+http://www.wikidata.org/entity/Q20,Norway,25-59 adult,8338
+http://www.wikidata.org/entity/Q20,Norway,60+ senior,13535
+http://www.wikidata.org/entity/Q842,Oman,15-24 youth,8
+http://www.wikidata.org/entity/Q842,Oman,25-59 adult,221
+http://www.wikidata.org/entity/Q842,Oman,60+ senior,16
+http://www.wikidata.org/entity/Q843,Pakistan,0-14 child,2
+http://www.wikidata.org/entity/Q843,Pakistan,15-24 youth,48
+http://www.wikidata.org/entity/Q843,Pakistan,25-59 adult,2799
+http://www.wikidata.org/entity/Q843,Pakistan,60+ senior,1720
+http://www.wikidata.org/entity/Q695,Palau,15-24 youth,2
+http://www.wikidata.org/entity/Q695,Palau,25-59 adult,14
+http://www.wikidata.org/entity/Q695,Palau,60+ senior,18
+http://www.wikidata.org/entity/Q219060,Palestine,15-24 youth,40
+http://www.wikidata.org/entity/Q219060,Palestine,25-59 adult,1446
+http://www.wikidata.org/entity/Q219060,Palestine,60+ senior,1857
+http://www.wikidata.org/entity/Q804,Panama,15-24 youth,42
+http://www.wikidata.org/entity/Q804,Panama,25-59 adult,733
+http://www.wikidata.org/entity/Q804,Panama,60+ senior,287
+http://www.wikidata.org/entity/Q691,Papua New Guinea,25-59 adult,288
+http://www.wikidata.org/entity/Q691,Papua New Guinea,60+ senior,60
+http://www.wikidata.org/entity/Q733,Paraguay,0-14 child,1
+http://www.wikidata.org/entity/Q733,Paraguay,15-24 youth,59
+http://www.wikidata.org/entity/Q733,Paraguay,25-59 adult,1253
+http://www.wikidata.org/entity/Q733,Paraguay,60+ senior,367
+http://www.wikidata.org/entity/Q148,People's Republic of China,0-14 child,18
+http://www.wikidata.org/entity/Q148,People's Republic of China,15-24 youth,663
+http://www.wikidata.org/entity/Q148,People's Republic of China,25-59 adult,11333
+http://www.wikidata.org/entity/Q148,People's Republic of China,60+ senior,7778
+http://www.wikidata.org/entity/Q419,Peru,15-24 youth,271
+http://www.wikidata.org/entity/Q419,Peru,25-59 adult,3306
+http://www.wikidata.org/entity/Q419,Peru,60+ senior,2261
+http://www.wikidata.org/entity/Q928,Philippines,0-14 child,8
+http://www.wikidata.org/entity/Q928,Philippines,15-24 youth,132
+http://www.wikidata.org/entity/Q928,Philippines,25-59 adult,2658
+http://www.wikidata.org/entity/Q928,Philippines,60+ senior,1313
+http://www.wikidata.org/entity/Q36,Poland,0-14 child,2
+http://www.wikidata.org/entity/Q36,Poland,15-24 youth,416
+http://www.wikidata.org/entity/Q36,Poland,25-59 adult,17651
+http://www.wikidata.org/entity/Q36,Poland,60+ senior,22433
+http://www.wikidata.org/entity/Q45,Portugal,0-14 child,4
+http://www.wikidata.org/entity/Q45,Portugal,15-24 youth,201
+http://www.wikidata.org/entity/Q45,Portugal,25-59 adult,5035
+http://www.wikidata.org/entity/Q45,Portugal,60+ senior,3000
+http://www.wikidata.org/entity/Q846,Qatar,15-24 youth,19
+http://www.wikidata.org/entity/Q846,Qatar,25-59 adult,527
+http://www.wikidata.org/entity/Q846,Qatar,60+ senior,78
+http://www.wikidata.org/entity/Q971,Republic of the Congo,15-24 youth,9
+http://www.wikidata.org/entity/Q971,Republic of the Congo,25-59 adult,309
+http://www.wikidata.org/entity/Q971,Republic of the Congo,60+ senior,190
+http://www.wikidata.org/entity/Q218,Romania,15-24 youth,313
+http://www.wikidata.org/entity/Q218,Romania,25-59 adult,7575
+http://www.wikidata.org/entity/Q218,Romania,60+ senior,5988
+http://www.wikidata.org/entity/Q159,Russia,0-14 child,34
+http://www.wikidata.org/entity/Q159,Russia,15-24 youth,1283
+http://www.wikidata.org/entity/Q159,Russia,25-59 adult,30751
+http://www.wikidata.org/entity/Q159,Russia,60+ senior,27932
+http://www.wikidata.org/entity/Q1037,Rwanda,15-24 youth,5
+http://www.wikidata.org/entity/Q1037,Rwanda,25-59 adult,277
+http://www.wikidata.org/entity/Q1037,Rwanda,60+ senior,129
+http://www.wikidata.org/entity/Q763,Saint Kitts and Nevis,15-24 youth,1
+http://www.wikidata.org/entity/Q763,Saint Kitts and Nevis,25-59 adult,134
 http://www.wikidata.org/entity/Q763,Saint Kitts and Nevis,60+ senior,54
-http://www.wikidata.org/entity/Q760,Saint Lucia,21-59 adult,106
-http://www.wikidata.org/entity/Q760,Saint Lucia,60+ senior,36
-http://www.wikidata.org/entity/Q757,Saint Vincent and the Grenadines,13-20 teen,2
-http://www.wikidata.org/entity/Q757,Saint Vincent and the Grenadines,21-59 adult,98
-http://www.wikidata.org/entity/Q757,Saint Vincent and the Grenadines,60+ senior,30
-http://www.wikidata.org/entity/Q683,Samoa,21-59 adult,279
-http://www.wikidata.org/entity/Q683,Samoa,60+ senior,57
-http://www.wikidata.org/entity/Q238,San Marino,13-20 teen,3
-http://www.wikidata.org/entity/Q238,San Marino,21-59 adult,223
-http://www.wikidata.org/entity/Q238,San Marino,60+ senior,96
-http://www.wikidata.org/entity/Q851,Saudi Arabia,13-20 teen,11
-http://www.wikidata.org/entity/Q851,Saudi Arabia,21-59 adult,1920
-http://www.wikidata.org/entity/Q851,Saudi Arabia,60+ senior,461
-http://www.wikidata.org/entity/Q1041,Senegal,13-20 teen,22
-http://www.wikidata.org/entity/Q1041,Senegal,21-59 adult,1427
-http://www.wikidata.org/entity/Q1041,Senegal,60+ senior,488
-http://www.wikidata.org/entity/Q403,Serbia,0-12 child,1
-http://www.wikidata.org/entity/Q403,Serbia,13-20 teen,58
-http://www.wikidata.org/entity/Q403,Serbia,21-59 adult,7602
-http://www.wikidata.org/entity/Q403,Serbia,60+ senior,3334
-http://www.wikidata.org/entity/Q1042,Seychelles,13-20 teen,3
-http://www.wikidata.org/entity/Q1042,Seychelles,21-59 adult,84
-http://www.wikidata.org/entity/Q1042,Seychelles,60+ senior,27
-http://www.wikidata.org/entity/Q1044,Sierra Leone,13-20 teen,3
-http://www.wikidata.org/entity/Q1044,Sierra Leone,21-59 adult,275
-http://www.wikidata.org/entity/Q1044,Sierra Leone,60+ senior,73
-http://www.wikidata.org/entity/Q334,Singapore,0-12 child,2
-http://www.wikidata.org/entity/Q334,Singapore,13-20 teen,16
-http://www.wikidata.org/entity/Q334,Singapore,21-59 adult,1181
-http://www.wikidata.org/entity/Q334,Singapore,60+ senior,408
-http://www.wikidata.org/entity/Q214,Slovakia,13-20 teen,34
-http://www.wikidata.org/entity/Q214,Slovakia,21-59 adult,5871
-http://www.wikidata.org/entity/Q214,Slovakia,60+ senior,4640
-http://www.wikidata.org/entity/Q215,Slovenia,13-20 teen,26
-http://www.wikidata.org/entity/Q215,Slovenia,21-59 adult,4365
-http://www.wikidata.org/entity/Q215,Slovenia,60+ senior,3721
-http://www.wikidata.org/entity/Q685,Solomon Islands,21-59 adult,124
+http://www.wikidata.org/entity/Q760,Saint Lucia,15-24 youth,3
+http://www.wikidata.org/entity/Q760,Saint Lucia,25-59 adult,102
+http://www.wikidata.org/entity/Q760,Saint Lucia,60+ senior,37
+http://www.wikidata.org/entity/Q757,Saint Vincent and the Grenadines,15-24 youth,3
+http://www.wikidata.org/entity/Q757,Saint Vincent and the Grenadines,25-59 adult,96
+http://www.wikidata.org/entity/Q757,Saint Vincent and the Grenadines,60+ senior,32
+http://www.wikidata.org/entity/Q683,Samoa,15-24 youth,4
+http://www.wikidata.org/entity/Q683,Samoa,25-59 adult,265
+http://www.wikidata.org/entity/Q683,Samoa,60+ senior,66
+http://www.wikidata.org/entity/Q238,San Marino,15-24 youth,11
+http://www.wikidata.org/entity/Q238,San Marino,25-59 adult,214
+http://www.wikidata.org/entity/Q238,San Marino,60+ senior,97
+http://www.wikidata.org/entity/Q851,Saudi Arabia,15-24 youth,50
+http://www.wikidata.org/entity/Q851,Saudi Arabia,25-59 adult,1853
+http://www.wikidata.org/entity/Q851,Saudi Arabia,60+ senior,499
+http://www.wikidata.org/entity/Q1041,Senegal,15-24 youth,96
+http://www.wikidata.org/entity/Q1041,Senegal,25-59 adult,1346
+http://www.wikidata.org/entity/Q1041,Senegal,60+ senior,507
+http://www.wikidata.org/entity/Q403,Serbia,0-14 child,2
+http://www.wikidata.org/entity/Q403,Serbia,15-24 youth,229
+http://www.wikidata.org/entity/Q403,Serbia,25-59 adult,7395
+http://www.wikidata.org/entity/Q403,Serbia,60+ senior,3468
+http://www.wikidata.org/entity/Q1042,Seychelles,15-24 youth,6
+http://www.wikidata.org/entity/Q1042,Seychelles,25-59 adult,78
+http://www.wikidata.org/entity/Q1042,Seychelles,60+ senior,31
+http://www.wikidata.org/entity/Q1044,Sierra Leone,15-24 youth,13
+http://www.wikidata.org/entity/Q1044,Sierra Leone,25-59 adult,266
+http://www.wikidata.org/entity/Q1044,Sierra Leone,60+ senior,76
+http://www.wikidata.org/entity/Q334,Singapore,0-14 child,2
+http://www.wikidata.org/entity/Q334,Singapore,15-24 youth,62
+http://www.wikidata.org/entity/Q334,Singapore,25-59 adult,1122
+http://www.wikidata.org/entity/Q334,Singapore,60+ senior,433
+http://www.wikidata.org/entity/Q214,Slovakia,15-24 youth,161
+http://www.wikidata.org/entity/Q214,Slovakia,25-59 adult,5679
+http://www.wikidata.org/entity/Q214,Slovakia,60+ senior,4775
+http://www.wikidata.org/entity/Q215,Slovenia,15-24 youth,122
+http://www.wikidata.org/entity/Q215,Slovenia,25-59 adult,4193
+http://www.wikidata.org/entity/Q215,Slovenia,60+ senior,3857
+http://www.wikidata.org/entity/Q685,Solomon Islands,15-24 youth,5
+http://www.wikidata.org/entity/Q685,Solomon Islands,25-59 adult,119
 http://www.wikidata.org/entity/Q685,Solomon Islands,60+ senior,22
-http://www.wikidata.org/entity/Q1045,Somalia,21-59 adult,214
-http://www.wikidata.org/entity/Q1045,Somalia,60+ senior,122
-http://www.wikidata.org/entity/Q258,South Africa,0-12 child,1
-http://www.wikidata.org/entity/Q258,South Africa,13-20 teen,43
-http://www.wikidata.org/entity/Q258,South Africa,21-59 adult,6430
-http://www.wikidata.org/entity/Q258,South Africa,60+ senior,2348
-http://www.wikidata.org/entity/Q884,South Korea,0-12 child,6
-http://www.wikidata.org/entity/Q884,South Korea,13-20 teen,256
-http://www.wikidata.org/entity/Q884,South Korea,21-59 adult,12069
-http://www.wikidata.org/entity/Q884,South Korea,60+ senior,3492
-http://www.wikidata.org/entity/Q958,South Sudan,13-20 teen,4
-http://www.wikidata.org/entity/Q958,South Sudan,21-59 adult,122
-http://www.wikidata.org/entity/Q958,South Sudan,60+ senior,22
-http://www.wikidata.org/entity/Q29,Spain,0-12 child,20
-http://www.wikidata.org/entity/Q29,Spain,13-20 teen,514
-http://www.wikidata.org/entity/Q29,Spain,21-59 adult,36228
-http://www.wikidata.org/entity/Q29,Spain,60+ senior,26896
-http://www.wikidata.org/entity/Q854,Sri Lanka,13-20 teen,5
-http://www.wikidata.org/entity/Q854,Sri Lanka,21-59 adult,1191
-http://www.wikidata.org/entity/Q854,Sri Lanka,60+ senior,545
-http://www.wikidata.org/entity/Q1049,Sudan,21-59 adult,302
-http://www.wikidata.org/entity/Q1049,Sudan,60+ senior,164
-http://www.wikidata.org/entity/Q730,Suriname,13-20 teen,4
-http://www.wikidata.org/entity/Q730,Suriname,21-59 adult,396
-http://www.wikidata.org/entity/Q730,Suriname,60+ senior,311
-http://www.wikidata.org/entity/Q34,Sweden,0-12 child,10
-http://www.wikidata.org/entity/Q34,Sweden,13-20 teen,126
-http://www.wikidata.org/entity/Q34,Sweden,21-59 adult,12684
-http://www.wikidata.org/entity/Q34,Sweden,60+ senior,9249
-http://www.wikidata.org/entity/Q39,Switzerland,0-12 child,5
-http://www.wikidata.org/entity/Q39,Switzerland,13-20 teen,81
-http://www.wikidata.org/entity/Q39,Switzerland,21-59 adult,9233
-http://www.wikidata.org/entity/Q39,Switzerland,60+ senior,9127
-http://www.wikidata.org/entity/Q858,Syria,0-12 child,1
-http://www.wikidata.org/entity/Q858,Syria,13-20 teen,9
-http://www.wikidata.org/entity/Q858,Syria,21-59 adult,1120
-http://www.wikidata.org/entity/Q858,Syria,60+ senior,885
-http://www.wikidata.org/entity/Q1039,São Tomé and Príncipe,21-59 adult,58
-http://www.wikidata.org/entity/Q1039,São Tomé and Príncipe,60+ senior,38
-http://www.wikidata.org/entity/Q865,Taiwan,13-20 teen,53
-http://www.wikidata.org/entity/Q865,Taiwan,21-59 adult,4155
-http://www.wikidata.org/entity/Q865,Taiwan,60+ senior,2924
-http://www.wikidata.org/entity/Q863,Tajikistan,13-20 teen,3
-http://www.wikidata.org/entity/Q863,Tajikistan,21-59 adult,709
-http://www.wikidata.org/entity/Q863,Tajikistan,60+ senior,876
-http://www.wikidata.org/entity/Q924,Tanzania,0-12 child,1
-http://www.wikidata.org/entity/Q924,Tanzania,13-20 teen,6
-http://www.wikidata.org/entity/Q924,Tanzania,21-59 adult,429
-http://www.wikidata.org/entity/Q924,Tanzania,60+ senior,191
-http://www.wikidata.org/entity/Q869,Thailand,0-12 child,8
-http://www.wikidata.org/entity/Q869,Thailand,13-20 teen,42
-http://www.wikidata.org/entity/Q869,Thailand,21-59 adult,3435
-http://www.wikidata.org/entity/Q869,Thailand,60+ senior,720
-http://www.wikidata.org/entity/Q778,The Bahamas,13-20 teen,6
-http://www.wikidata.org/entity/Q778,The Bahamas,21-59 adult,277
-http://www.wikidata.org/entity/Q778,The Bahamas,60+ senior,63
-http://www.wikidata.org/entity/Q1005,The Gambia,13-20 teen,11
-http://www.wikidata.org/entity/Q1005,The Gambia,21-59 adult,302
-http://www.wikidata.org/entity/Q1005,The Gambia,60+ senior,153
-http://www.wikidata.org/entity/Q945,Togo,13-20 teen,1
-http://www.wikidata.org/entity/Q945,Togo,21-59 adult,364
-http://www.wikidata.org/entity/Q945,Togo,60+ senior,92
-http://www.wikidata.org/entity/Q678,Tonga,21-59 adult,333
-http://www.wikidata.org/entity/Q678,Tonga,60+ senior,35
-http://www.wikidata.org/entity/Q754,Trinidad and Tobago,21-59 adult,657
-http://www.wikidata.org/entity/Q754,Trinidad and Tobago,60+ senior,332
-http://www.wikidata.org/entity/Q948,Tunisia,13-20 teen,6
-http://www.wikidata.org/entity/Q948,Tunisia,21-59 adult,1381
-http://www.wikidata.org/entity/Q948,Tunisia,60+ senior,1334
-http://www.wikidata.org/entity/Q43,Turkey,0-12 child,7
-http://www.wikidata.org/entity/Q43,Turkey,13-20 teen,638
-http://www.wikidata.org/entity/Q43,Turkey,21-59 adult,11145
-http://www.wikidata.org/entity/Q43,Turkey,60+ senior,6081
-http://www.wikidata.org/entity/Q874,Turkmenistan,13-20 teen,1
-http://www.wikidata.org/entity/Q874,Turkmenistan,21-59 adult,285
-http://www.wikidata.org/entity/Q874,Turkmenistan,60+ senior,244
-http://www.wikidata.org/entity/Q672,Tuvalu,21-59 adult,50
+http://www.wikidata.org/entity/Q1045,Somalia,15-24 youth,2
+http://www.wikidata.org/entity/Q1045,Somalia,25-59 adult,223
+http://www.wikidata.org/entity/Q1045,Somalia,60+ senior,128
+http://www.wikidata.org/entity/Q258,South Africa,0-14 child,3
+http://www.wikidata.org/entity/Q258,South Africa,15-24 youth,135
+http://www.wikidata.org/entity/Q258,South Africa,25-59 adult,6331
+http://www.wikidata.org/entity/Q258,South Africa,60+ senior,2444
+http://www.wikidata.org/entity/Q884,South Korea,0-14 child,13
+http://www.wikidata.org/entity/Q884,South Korea,15-24 youth,665
+http://www.wikidata.org/entity/Q884,South Korea,25-59 adult,11595
+http://www.wikidata.org/entity/Q884,South Korea,60+ senior,3846
+http://www.wikidata.org/entity/Q958,South Sudan,15-24 youth,8
+http://www.wikidata.org/entity/Q958,South Sudan,25-59 adult,116
+http://www.wikidata.org/entity/Q958,South Sudan,60+ senior,24
+http://www.wikidata.org/entity/Q29,Spain,0-14 child,26
+http://www.wikidata.org/entity/Q29,Spain,15-24 youth,1603
+http://www.wikidata.org/entity/Q29,Spain,25-59 adult,34539
+http://www.wikidata.org/entity/Q29,Spain,60+ senior,28238
+http://www.wikidata.org/entity/Q854,Sri Lanka,15-24 youth,21
+http://www.wikidata.org/entity/Q854,Sri Lanka,25-59 adult,1159
+http://www.wikidata.org/entity/Q854,Sri Lanka,60+ senior,557
+http://www.wikidata.org/entity/Q1049,Sudan,15-24 youth,4
+http://www.wikidata.org/entity/Q1049,Sudan,25-59 adult,298
+http://www.wikidata.org/entity/Q1049,Sudan,60+ senior,171
+http://www.wikidata.org/entity/Q730,Suriname,15-24 youth,6
+http://www.wikidata.org/entity/Q730,Suriname,25-59 adult,386
+http://www.wikidata.org/entity/Q730,Suriname,60+ senior,326
+http://www.wikidata.org/entity/Q34,Sweden,0-14 child,14
+http://www.wikidata.org/entity/Q34,Sweden,15-24 youth,393
+http://www.wikidata.org/entity/Q34,Sweden,25-59 adult,11185
+http://www.wikidata.org/entity/Q34,Sweden,60+ senior,9407
+http://www.wikidata.org/entity/Q39,Switzerland,0-14 child,5
+http://www.wikidata.org/entity/Q39,Switzerland,15-24 youth,311
+http://www.wikidata.org/entity/Q39,Switzerland,25-59 adult,8745
+http://www.wikidata.org/entity/Q39,Switzerland,60+ senior,9484
+http://www.wikidata.org/entity/Q858,Syria,15-24 youth,21
+http://www.wikidata.org/entity/Q858,Syria,25-59 adult,1099
+http://www.wikidata.org/entity/Q858,Syria,60+ senior,920
+http://www.wikidata.org/entity/Q1039,São Tomé and Príncipe,25-59 adult,56
+http://www.wikidata.org/entity/Q1039,São Tomé and Príncipe,60+ senior,40
+http://www.wikidata.org/entity/Q865,Taiwan,0-14 child,2
+http://www.wikidata.org/entity/Q865,Taiwan,15-24 youth,104
+http://www.wikidata.org/entity/Q865,Taiwan,25-59 adult,4062
+http://www.wikidata.org/entity/Q865,Taiwan,60+ senior,3088
+http://www.wikidata.org/entity/Q863,Tajikistan,15-24 youth,23
+http://www.wikidata.org/entity/Q863,Tajikistan,25-59 adult,679
+http://www.wikidata.org/entity/Q863,Tajikistan,60+ senior,913
+http://www.wikidata.org/entity/Q924,Tanzania,0-14 child,1
+http://www.wikidata.org/entity/Q924,Tanzania,15-24 youth,22
+http://www.wikidata.org/entity/Q924,Tanzania,25-59 adult,409
+http://www.wikidata.org/entity/Q924,Tanzania,60+ senior,202
+http://www.wikidata.org/entity/Q869,Thailand,0-14 child,11
+http://www.wikidata.org/entity/Q869,Thailand,15-24 youth,149
+http://www.wikidata.org/entity/Q869,Thailand,25-59 adult,3313
+http://www.wikidata.org/entity/Q869,Thailand,60+ senior,767
+http://www.wikidata.org/entity/Q778,The Bahamas,15-24 youth,14
+http://www.wikidata.org/entity/Q778,The Bahamas,25-59 adult,267
+http://www.wikidata.org/entity/Q778,The Bahamas,60+ senior,69
+http://www.wikidata.org/entity/Q1005,The Gambia,15-24 youth,30
+http://www.wikidata.org/entity/Q1005,The Gambia,25-59 adult,280
+http://www.wikidata.org/entity/Q1005,The Gambia,60+ senior,154
+http://www.wikidata.org/entity/Q945,Togo,15-24 youth,11
+http://www.wikidata.org/entity/Q945,Togo,25-59 adult,370
+http://www.wikidata.org/entity/Q945,Togo,60+ senior,108
+http://www.wikidata.org/entity/Q678,Tonga,15-24 youth,4
+http://www.wikidata.org/entity/Q678,Tonga,25-59 adult,328
+http://www.wikidata.org/entity/Q678,Tonga,60+ senior,37
+http://www.wikidata.org/entity/Q754,Trinidad and Tobago,15-24 youth,2
+http://www.wikidata.org/entity/Q754,Trinidad and Tobago,25-59 adult,638
+http://www.wikidata.org/entity/Q754,Trinidad and Tobago,60+ senior,356
+http://www.wikidata.org/entity/Q948,Tunisia,15-24 youth,27
+http://www.wikidata.org/entity/Q948,Tunisia,25-59 adult,1323
+http://www.wikidata.org/entity/Q948,Tunisia,60+ senior,1378
+http://www.wikidata.org/entity/Q43,Turkey,0-14 child,13
+http://www.wikidata.org/entity/Q43,Turkey,15-24 youth,1373
+http://www.wikidata.org/entity/Q43,Turkey,25-59 adult,11466
+http://www.wikidata.org/entity/Q43,Turkey,60+ senior,7452
+http://www.wikidata.org/entity/Q874,Turkmenistan,15-24 youth,6
+http://www.wikidata.org/entity/Q874,Turkmenistan,25-59 adult,271
+http://www.wikidata.org/entity/Q874,Turkmenistan,60+ senior,256
+http://www.wikidata.org/entity/Q672,Tuvalu,25-59 adult,50
 http://www.wikidata.org/entity/Q672,Tuvalu,60+ senior,9
-http://www.wikidata.org/entity/Q1036,Uganda,0-12 child,1
-http://www.wikidata.org/entity/Q1036,Uganda,13-20 teen,18
-http://www.wikidata.org/entity/Q1036,Uganda,21-59 adult,1302
-http://www.wikidata.org/entity/Q1036,Uganda,60+ senior,509
-http://www.wikidata.org/entity/Q212,Ukraine,0-12 child,4
-http://www.wikidata.org/entity/Q212,Ukraine,13-20 teen,152
-http://www.wikidata.org/entity/Q212,Ukraine,21-59 adult,15713
-http://www.wikidata.org/entity/Q212,Ukraine,60+ senior,15341
-http://www.wikidata.org/entity/Q878,United Arab Emirates,0-12 child,1
-http://www.wikidata.org/entity/Q878,United Arab Emirates,13-20 teen,12
-http://www.wikidata.org/entity/Q878,United Arab Emirates,21-59 adult,1037
-http://www.wikidata.org/entity/Q878,United Arab Emirates,60+ senior,96
-http://www.wikidata.org/entity/Q145,United Kingdom,0-12 child,52
-http://www.wikidata.org/entity/Q145,United Kingdom,13-20 teen,399
-http://www.wikidata.org/entity/Q145,United Kingdom,21-59 adult,45019
-http://www.wikidata.org/entity/Q145,United Kingdom,60+ senior,30341
-http://www.wikidata.org/entity/Q30,United States,0-12 child,220
-http://www.wikidata.org/entity/Q30,United States,13-20 teen,1113
-http://www.wikidata.org/entity/Q30,United States,21-59 adult,110091
-http://www.wikidata.org/entity/Q30,United States,60+ senior,86888
-http://www.wikidata.org/entity/Q77,Uruguay,13-20 teen,31
-http://www.wikidata.org/entity/Q77,Uruguay,21-59 adult,3932
-http://www.wikidata.org/entity/Q77,Uruguay,60+ senior,3712
-http://www.wikidata.org/entity/Q265,Uzbekistan,13-20 teen,14
-http://www.wikidata.org/entity/Q265,Uzbekistan,21-59 adult,1749
-http://www.wikidata.org/entity/Q265,Uzbekistan,60+ senior,1245
-http://www.wikidata.org/entity/Q686,Vanuatu,21-59 adult,124
-http://www.wikidata.org/entity/Q686,Vanuatu,60+ senior,23
-http://www.wikidata.org/entity/Q717,Venezuela,0-12 child,1
-http://www.wikidata.org/entity/Q717,Venezuela,13-20 teen,40
-http://www.wikidata.org/entity/Q717,Venezuela,21-59 adult,3581
-http://www.wikidata.org/entity/Q717,Venezuela,60+ senior,1466
-http://www.wikidata.org/entity/Q881,Vietnam,13-20 teen,12
-http://www.wikidata.org/entity/Q881,Vietnam,21-59 adult,2328
-http://www.wikidata.org/entity/Q881,Vietnam,60+ senior,1424
-http://www.wikidata.org/entity/Q805,Yemen,13-20 teen,1
-http://www.wikidata.org/entity/Q805,Yemen,21-59 adult,219
-http://www.wikidata.org/entity/Q805,Yemen,60+ senior,185
-http://www.wikidata.org/entity/Q953,Zambia,13-20 teen,2
-http://www.wikidata.org/entity/Q953,Zambia,21-59 adult,558
-http://www.wikidata.org/entity/Q953,Zambia,60+ senior,114
-http://www.wikidata.org/entity/Q954,Zimbabwe,13-20 teen,2
-http://www.wikidata.org/entity/Q954,Zimbabwe,21-59 adult,1060
-http://www.wikidata.org/entity/Q954,Zimbabwe,60+ senior,290
+http://www.wikidata.org/entity/Q1036,Uganda,0-14 child,2
+http://www.wikidata.org/entity/Q1036,Uganda,15-24 youth,62
+http://www.wikidata.org/entity/Q1036,Uganda,25-59 adult,1261
+http://www.wikidata.org/entity/Q1036,Uganda,60+ senior,528
+http://www.wikidata.org/entity/Q212,Ukraine,0-14 child,6
+http://www.wikidata.org/entity/Q212,Ukraine,15-24 youth,529
+http://www.wikidata.org/entity/Q212,Ukraine,25-59 adult,15064
+http://www.wikidata.org/entity/Q212,Ukraine,60+ senior,15736
+http://www.wikidata.org/entity/Q878,United Arab Emirates,0-14 child,1
+http://www.wikidata.org/entity/Q878,United Arab Emirates,15-24 youth,35
+http://www.wikidata.org/entity/Q878,United Arab Emirates,25-59 adult,1010
+http://www.wikidata.org/entity/Q878,United Arab Emirates,60+ senior,100
+http://www.wikidata.org/entity/Q145,United Kingdom,0-14 child,66
+http://www.wikidata.org/entity/Q145,United Kingdom,15-24 youth,1501
+http://www.wikidata.org/entity/Q145,United Kingdom,25-59 adult,42908
+http://www.wikidata.org/entity/Q145,United Kingdom,60+ senior,31529
+http://www.wikidata.org/entity/Q30,United States,0-14 child,273
+http://www.wikidata.org/entity/Q30,United States,15-24 youth,3303
+http://www.wikidata.org/entity/Q30,United States,25-59 adult,105775
+http://www.wikidata.org/entity/Q30,United States,60+ senior,89854
+http://www.wikidata.org/entity/Q77,Uruguay,15-24 youth,174
+http://www.wikidata.org/entity/Q77,Uruguay,25-59 adult,3693
+http://www.wikidata.org/entity/Q77,Uruguay,60+ senior,3835
+http://www.wikidata.org/entity/Q265,Uzbekistan,15-24 youth,109
+http://www.wikidata.org/entity/Q265,Uzbekistan,25-59 adult,1691
+http://www.wikidata.org/entity/Q265,Uzbekistan,60+ senior,1320
+http://www.wikidata.org/entity/Q686,Vanuatu,15-24 youth,1
+http://www.wikidata.org/entity/Q686,Vanuatu,25-59 adult,122
+http://www.wikidata.org/entity/Q686,Vanuatu,60+ senior,24
+http://www.wikidata.org/entity/Q717,Venezuela,0-14 child,2
+http://www.wikidata.org/entity/Q717,Venezuela,15-24 youth,113
+http://www.wikidata.org/entity/Q717,Venezuela,25-59 adult,3296
+http://www.wikidata.org/entity/Q717,Venezuela,60+ senior,1497
+http://www.wikidata.org/entity/Q881,Vietnam,0-14 child,1
+http://www.wikidata.org/entity/Q881,Vietnam,15-24 youth,61
+http://www.wikidata.org/entity/Q881,Vietnam,25-59 adult,2237
+http://www.wikidata.org/entity/Q881,Vietnam,60+ senior,1491
+http://www.wikidata.org/entity/Q805,Yemen,15-24 youth,5
+http://www.wikidata.org/entity/Q805,Yemen,25-59 adult,214
+http://www.wikidata.org/entity/Q805,Yemen,60+ senior,193
+http://www.wikidata.org/entity/Q953,Zambia,15-24 youth,25
+http://www.wikidata.org/entity/Q953,Zambia,25-59 adult,532
+http://www.wikidata.org/entity/Q953,Zambia,60+ senior,123
+http://www.wikidata.org/entity/Q954,Zimbabwe,15-24 youth,17
+http://www.wikidata.org/entity/Q954,Zimbabwe,25-59 adult,1043
+http://www.wikidata.org/entity/Q954,Zimbabwe,60+ senior,303
