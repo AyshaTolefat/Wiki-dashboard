@@ -20,11 +20,11 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 SELECT ?country ?countryLabel ?ageGroup (COUNT(?person) AS ?count) WHERE {{
   VALUES ?country {{ wd:{country_qid} }}
 
-  ?person wdt:P31 wd:Q5 .               
-  ?person wdt:P19 / wdt:P17 ?country .    
+  ?person wdt:P31 wd:Q5 .
+  ?person wdt:P19 / wdt:P17 ?country .
 
-  OPTIONAL {{ ?person wdt:P569 ?dob . }}  
-  OPTIONAL {{ ?person wdt:P570 ?dod . }}  
+  OPTIONAL {{ ?person wdt:P569 ?dob . }}
+  OPTIONAL {{ ?person wdt:P570 ?dod . }}
 
   FILTER(BOUND(?dob))
 
@@ -37,10 +37,11 @@ SELECT ?country ?countryLabel ?ageGroup (COUNT(?person) AS ?count) WHERE {{
 
   FILTER(?age >= 0 && ?age <= 120)
 
+  # --- UN-style bins: 0-14, 15-24, 25-59, 60+ ---
   BIND(
-    IF(?age <= 12, "0-12 child",
-      IF(?age <= 20, "13-20 teen",
-        IF(?age <= 59, "21-59 adult",
+    IF(?age <= 14, "0-14 child",
+      IF(?age <= 24, "15-24 youth",
+        IF(?age <= 59, "25-59 adult",
           "60+ senior"
         )
       )
@@ -137,3 +138,4 @@ def fetch_age_by_country_all() -> pd.DataFrame | None:
 
 if __name__ == "__main__":
     fetch_age_by_country_all()
+
