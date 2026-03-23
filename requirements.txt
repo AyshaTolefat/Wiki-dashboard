@@ -1,5 +1,6 @@
+streamlit>=1.55.0
 pandas
 numpy
-streamlit
 plotly
-SPARQLWrapper
+pydeck
+requests
