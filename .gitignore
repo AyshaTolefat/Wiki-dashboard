@@ -17,3 +17,4 @@ data/top_other_occupations*.csv
 data/missing_countries_qids.txt
 .DS_Store
 Thumbs.db
+.env

@@ -1,9 +1,31 @@
-# dashboard/components/ethnicity_gender_pies.py
-
 import pandas as pd
 import plotly.graph_objects as go
 
 GENDER_ORDER = ["Male", "Female", "Non-binary or other", "Unknown / not stated"]
+
+# Longer palette so colors do not repeat quickly
+ETHNIC_COLORS = [
+    "#4F46E5",  # indigo
+    "#EF553B",  # red-orange
+    "#10B981",  # emerald
+    "#8B5CF6",  # violet
+    "#F59E0B",  # amber
+    "#06B6D4",  # cyan
+    "#F472B6",  # pink
+    "#A3E635",  # lime
+    "#E879F9",  # fuchsia
+    "#FBBF24",  # yellow
+    "#14B8A6",  # teal
+    "#FB7185",  # rose
+    "#84CC16",  # green
+    "#38BDF8",  # sky
+    "#F97316",  # orange
+    "#6366F1",  # blue-indigo
+    "#22C55E",  # green
+    "#EC4899",  # magenta
+    "#A855F7",  # purple
+    "#0EA5E9",  # blue
+]
 
 def _clean(df: pd.DataFrame) -> pd.DataFrame:
     d = df.copy()
@@ -16,47 +38,38 @@ def _clean(df: pd.DataFrame) -> pd.DataFrame:
         d["ethnicGroupLabel"].astype(str).str.strip().str.replace(r"\s+", " ", regex=True)
     )
 
-    # Fix missing ethnic group labels (prevents "nan")
     bad = d["ethnicGroupLabel"].isna() | d["ethnicGroupLabel"].isin(["", "nan", "None"])
     d.loc[bad, "ethnicGroupLabel"] = "Unknown ethnic group"
 
-    # Keep only known gender buckets
     d = d[d["genderCategory"].isin(GENDER_ORDER)]
-
-    # Remove zero counts (noise)
     d = d[d["count"] > 0]
 
     return d
 
-def make_gender_ethnicity_table(
+
+def _top_ethnicity_rows(
     df_country: pd.DataFrame,
     gender: str,
     top_n: int = 10,
-) -> pd.DataFrame:
-    """
-    Table of ethnic groups for ONE gender:
-    Ethnic group | Count | Percent
-
-    Matches the donut logic (Top N + Other).
-    Returns empty df if no data.
-    """
+) -> tuple[pd.DataFrame, int]:
     if df_country is None or df_country.empty:
-        return pd.DataFrame(columns=["Ethnic group", "Count", "Percent"])
+        return pd.DataFrame(columns=["Ethnic group", "Count", "Percent", "Color"]), 0
 
     d = _clean(df_country)
     d = d[d["genderCategory"] == gender].copy()
     if d.empty:
-        return pd.DataFrame(columns=["Ethnic group", "Count", "Percent"])
+        return pd.DataFrame(columns=["Ethnic group", "Count", "Percent", "Color"]), 0
 
     totals = (
         d.groupby("ethnicGroupLabel", as_index=False)["count"]
         .sum()
         .sort_values("count", ascending=False)
+        .reset_index(drop=True)
     )
 
     total_gender = int(totals["count"].sum())
     if total_gender <= 0:
-        return pd.DataFrame(columns=["Ethnic group", "Count", "Percent"])
+        return pd.DataFrame(columns=["Ethnic group", "Count", "Percent", "Color"]), 0
 
     top = totals.head(top_n).copy()
     other_sum = int(total_gender - top["count"].sum())
@@ -68,106 +81,80 @@ def make_gender_ethnicity_table(
             ignore_index=True,
         )
 
-    rows["Percent"] = rows["Count"].apply(lambda v: (v / total_gender) * 100.0)
-    rows["Percent"] = rows["Percent"].map(lambda p: f"{p:.1f}%")
+    rows["PercentValue"] = rows["Count"].apply(lambda v: (v / total_gender) * 100.0)
+    rows["Percent"] = rows["PercentValue"].map(lambda p: f"{p:.1f}%")
+    rows["Color"] = [ETHNIC_COLORS[i % len(ETHNIC_COLORS)] for i in range(len(rows))]
 
+    return rows[["Ethnic group", "Count", "Percent", "PercentValue", "Color"]], total_gender
+
+
+def make_gender_ethnicity_table(
+    df_country: pd.DataFrame,
+    gender: str,
+    top_n: int = 10,
+) -> pd.DataFrame:
+    rows, _ = _top_ethnicity_rows(df_country, gender, top_n=top_n)
+    if rows.empty:
+        return pd.DataFrame(columns=["Ethnic group", "Count", "Percent"])
     return rows[["Ethnic group", "Count", "Percent"]]
+
+
+def make_gender_ethnicity_legend_df(
+    df_country: pd.DataFrame,
+    gender: str,
+    top_n: int = 10,
+) -> pd.DataFrame:
+    rows, _ = _top_ethnicity_rows(df_country, gender, top_n=top_n)
+    if rows.empty:
+        return pd.DataFrame(columns=["Ethnic group", "Color", "Percent"])
+    return rows[["Ethnic group", "Color", "Percent"]]
 
 
 def make_gender_ethnicity_donut(
     df_country: pd.DataFrame,
     gender: str,
-    title_prefix: str,   # keep param name but we’ll pass the new title text
+    title_prefix: str,
     top_n: int = 10,
-    min_pct_label: float = 3.0,  # ✅ only show % labels if slice >= this
+    min_pct_label: float = 3.0,
 ) -> tuple[go.Figure | None, int]:
-    """
-    Returns (figure_or_None, total_count_for_gender)
+    rows, total_gender = _top_ethnicity_rows(df_country, gender, top_n=top_n)
 
-    - If total is 0 -> returns (None, 0)
-    - Legend used as key (no leader lines)
-    - Hover disabled
-    - Only show inside % labels for slices >= min_pct_label
-    """
-
-    if df_country is None or df_country.empty:
+    if rows.empty or total_gender <= 0:
         return None, 0
 
-    d = _clean(df_country)
-    d = d[d["genderCategory"] == gender].copy()
-
-    if d.empty:
-        return None, 0
-
-    totals = (
-        d.groupby("ethnicGroupLabel", as_index=False)["count"]
-        .sum()
-        .sort_values("count", ascending=False)
-    )
-
-    total_gender = int(totals["count"].sum())
-    if total_gender <= 0:
-        return None, 0
-
-    # Top N + Other (kept for readability; title no longer mentions it)
-    top = totals.head(top_n).copy()
-    other_sum = int(total_gender - top["count"].sum())
-
-    labels = top["ethnicGroupLabel"].tolist()
-    values = top["count"].tolist()
-
-    if other_sum > 0:
-        labels.append("Other")
-        values.append(other_sum)
-
-    # ✅ Custom text: show percent only when slice is big enough
-    pct = [(v / total_gender) * 100.0 for v in values]
+    labels = rows["Ethnic group"].tolist()
+    values = rows["Count"].tolist()
+    colors = rows["Color"].tolist()
+    pct = rows["PercentValue"].tolist()
     text = [f"{p:.1f}%" if p >= float(min_pct_label) else "" for p in pct]
 
     fig = go.Figure()
+
     fig.add_trace(
         go.Pie(
             labels=labels,
             values=values,
             hole=0.58,
             sort=False,
-
-            # ✅ use our custom text instead of Plotly’s default that becomes unreadable
+            marker=dict(colors=colors),
             text=text,
             textinfo="text",
             textposition="inside",
-
-            # ✅ legend is the key
-            showlegend=True,
-
-            # ✅ no hover
+            insidetextorientation="radial",
+            showlegend=False,
             hoverinfo="skip",
             hovertemplate=None,
+            domain=dict(x=[0.10, 0.90], y=[0.08, 0.92]),
         )
     )
 
     fig.update_layout(
         template="simple_white",
-        title=f"{title_prefix} — {gender}",
-        height=460,
-        margin=dict(l=10, r=10, t=60, b=10),
-        legend=dict(
-            orientation="v",
-            title="Ethnic group",
-            yanchor="top",
-            y=1,
-            xanchor="left",
-            x=1.02,
-        ),
+        title="",
+        height=320,
+        margin=dict(l=10, r=10, t=10, b=10),
+        uniformtext_minsize=10,
+        uniformtext_mode="hide",
     )
 
     return fig, total_gender
-
-
-    return fig, total_gender
-
-
-
-
-
-

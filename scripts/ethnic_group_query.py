@@ -49,7 +49,7 @@ WHERE {{
   )
 
   SERVICE wikibase:label {{
-    bd:serviceParam wikibase:language "en" .
+      bd:serviceParam wikibase:language "en,[AUTO_LANGUAGE],mul,fr,de,es,zh,ru,ja" .
   }}
 }}
 GROUP BY ?country ?countryLabel ?ethnicGroup ?ethnicGroupLabel ?genderCategory

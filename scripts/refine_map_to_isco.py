@@ -17,7 +17,7 @@ import pandas as pd
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = BASE_DIR / "data"
 
-INP = DATA_DIR / "gender_occupation_with_isco.csv"
+INP = DATA_DIR / "gender_occupation_with_isco_refined.csv"
 OUT = DATA_DIR / "gender_occupation_with_isco_refined.csv"
 
 ISCO_MAJOR_TITLES = {

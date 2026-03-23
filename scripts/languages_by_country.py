@@ -38,7 +38,7 @@ WHERE {{
   }}
 
   SERVICE wikibase:label {{
-    bd:serviceParam wikibase:language "en" .
+    bd:serviceParam wikibase:language "en".
   }}
 }}
 GROUP BY ?country ?countryLabel ?language ?languageLabel ?type

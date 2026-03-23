@@ -79,21 +79,29 @@ def render_gender_over_decades(all_decades: pd.DataFrame, qid: str) -> None:
 
     decades = df["decade"].tolist()
 
+    # --- Title + simple description ---
     st.markdown("## Gender representation over decades")
+    st.caption(
+        "These charts show how biographies are distributed by gender across birth decades (1900–present). "
+        "Use the decade selector to update the KPIs and highlight that decade on each chart."
+    )
 
-    c1, c2 = st.columns([2, 1])
+    # --- Controls (clean: no extra bubbles/empty labels) ---
+    c1, c2 = st.columns([2, 1], vertical_alignment="bottom")
     with c1:
         view = st.selectbox(
             "View",
-            [
-                "All (Male + Female)",
-                "Male only",
-                "Female only",
-            ],
+            ["All (Male + Female)", "Male only", "Female only"],
             index=0,
+            label_visibility="collapsed",
         )
     with c2:
-        selected_decade = st.selectbox("Select decade", decades, index=len(decades) - 1)
+        selected_decade = st.selectbox(
+            "Select decade",
+            decades,
+            index=len(decades) - 1,
+            label_visibility="visible",
+        )
 
     row = df[df["decade"] == selected_decade].iloc[0]
     prev_df = df[df["decade"] == (selected_decade - 10)]
@@ -117,6 +125,7 @@ def render_gender_over_decades(all_decades: pd.DataFrame, qid: str) -> None:
     delta_male_pp = None if (male_share is None or prev_male_share is None) else (male_share - prev_male_share) * 100.0
     delta_female_pp = None if (female_share is None or prev_female_share is None) else (female_share - prev_female_share) * 100.0
 
+    # --- KPI styles ---
     st.markdown(
         """
         <style>
@@ -224,16 +233,21 @@ def render_gender_over_decades(all_decades: pd.DataFrame, qid: str) -> None:
             """,
             unsafe_allow_html=True
         )
+
+    # ✅ Split change into TWO KPI cards (cleaner)
     with bottom[3]:
+        prev_label = (selected_decade - 10) if prev_row is not None else "—"
         st.markdown(
             f"""
             <div class="kpi-card">
               <div class="kpi-label">Change from previous decade</div>
+              <div class="kpi-sub">Compared to {prev_label}</div>
+              <div style="height:8px;"></div>
+              <div class="kpi-label">Male % change</div>
               <div class="kpi-value">{fmt_pp_signed(delta_male_pp)}</div>
-              <div class="kpi-sub">Male % (vs {selected_decade-10 if prev_row is not None else "—"})</div>
               <div style="height:10px;"></div>
+              <div class="kpi-label">Female % change</div>
               <div class="kpi-value">{fmt_pp_signed(delta_female_pp)}</div>
-              <div class="kpi-sub">Female % (vs {selected_decade-10 if prev_row is not None else "—"})</div>
             </div>
             """,
             unsafe_allow_html=True
@@ -241,7 +255,14 @@ def render_gender_over_decades(all_decades: pd.DataFrame, qid: str) -> None:
 
     st.markdown("")
 
+    # ----------------------
+    # Charts + descriptions
+    # ----------------------
+
     # Male/Female chart
+    st.markdown("### Gender over decades")
+    st.caption("Counts of male and female biographies by decade. The dotted line marks the selected decade.")
+
     mf_fig = go.Figure()
     x = df["decade"]
 
@@ -251,18 +272,32 @@ def render_gender_over_decades(all_decades: pd.DataFrame, qid: str) -> None:
         add_line(mf_fig, x, df["Female"], "Female", COLOR_FEMALE)
 
     mf_fig.add_vline(x=selected_decade, line_width=2, line_dash="dot", line_color="#9CA3AF")
+
     mf_fig.update_xaxes(title="Decade", tickmode="array", tickvals=decades, ticktext=[str(d) for d in decades])
+
+    # ✅ Fix legend overlap with title by giving it real space + moving it higher
     mf_fig.update_layout(
         height=520,
-        margin=dict(l=10, r=10, t=10, b=10),
-        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="left", x=0),
+        margin=dict(l=10, r=10, t=70, b=10),
+        legend=dict(
+            orientation="h",
+            yanchor="bottom",
+            y=1.15,   # higher than before
+            xanchor="left",
+            x=0.0,
+            title_text="",
+        ),
         yaxis=dict(title="Biographies"),
         template="simple_white",
         hovermode=False,
     )
+
     st.plotly_chart(mf_fig, use_container_width=True)
 
     # Non-binary chart
+    st.markdown("### Non-binary over decades")
+    st.caption("Counts of non-binary / other biographies by decade. The dotted line marks the selected decade.")
+
     nb_fig = go.Figure()
     nb_fig.add_trace(
         go.Scatter(
@@ -280,15 +315,18 @@ def render_gender_over_decades(all_decades: pd.DataFrame, qid: str) -> None:
     nb_fig.update_xaxes(title="Decade", tickmode="array", tickvals=decades, ticktext=[str(d) for d in decades])
     nb_fig.update_layout(
         height=320,
-        margin=dict(l=10, r=10, t=10, b=10),
+        margin=dict(l=10, r=10, t=40, b=10),
         template="simple_white",
-        yaxis=dict(title="Non-binary / other (count)"),
+        yaxis=dict(title="Count"),
         showlegend=False,
         hovermode=False,
     )
     st.plotly_chart(nb_fig, use_container_width=True)
 
     # Gap chart
+    st.markdown("### Gender gap over decades")
+    st.caption("Absolute difference between male and female share (percentage points) by decade.")
+
     gap_fig = go.Figure()
     gap_fig.add_trace(
         go.Scatter(
@@ -306,9 +344,9 @@ def render_gender_over_decades(all_decades: pd.DataFrame, qid: str) -> None:
     gap_fig.update_xaxes(title="Decade", tickmode="array", tickvals=decades, ticktext=[str(d) for d in decades])
     gap_fig.update_layout(
         height=280,
-        margin=dict(l=10, r=10, t=10, b=10),
+        margin=dict(l=10, r=10, t=40, b=10),
         template="simple_white",
-        yaxis=dict(title="Gap (percentage points)"),
+        yaxis=dict(title="pp"),
         showlegend=False,
         hovermode=False,
     )

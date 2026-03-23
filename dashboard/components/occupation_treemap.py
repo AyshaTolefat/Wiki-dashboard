@@ -10,28 +10,33 @@ def _prep_occ_df(df: pd.DataFrame) -> pd.DataFrame:
 
     df["count"] = pd.to_numeric(df.get("count", 0), errors="coerce").fillna(0).astype(int)
 
+    # ✅ critical: fill NaN BEFORE astype(str) so it never becomes "nan"
     df["genderCategory"] = (
         df.get("genderCategory", "")
+        .fillna("")
         .astype(str).str.strip()
         .str.replace(r"\s+", " ", regex=True)
     )
 
     df["occupationLabel"] = (
         df.get("occupationLabel", "")
+        .fillna("")
         .astype(str).str.strip()
-        .replace({"": "Unknown occupation"})
+        .replace({"": "Unknown occupation", "nan": "Unknown occupation", "None": "Unknown occupation"})
     )
 
     df["sector"] = (
         df.get("sector", "")
+        .fillna("")
         .astype(str).str.strip()
-        .replace({"": "Other / Unclassified"})
+        .replace({"": "Other / Unclassified", "nan": "Other / Unclassified", "None": "Other / Unclassified"})
     )
 
     df["isco_major_title"] = (
         df.get("isco_major_title", "")
+        .fillna("")
         .astype(str).str.strip()
-        .replace({"": "Unmapped ISCO major"})
+        .replace({"": "Unmapped ISCO major", "nan": "Unmapped ISCO major", "None": "Unmapped ISCO major"})
     )
 
     return df
@@ -144,7 +149,6 @@ def make_occupation_treemap(
             value_col="count",
             min_share_within_parent=min_share_within_parent,
         )
-        path = [parent_col, "occupationLabel"]
         plot_df = agg2.rename(columns={"occupationLabel": "Occupation"})
         path = [parent_col, "Occupation"]
 
@@ -169,11 +173,10 @@ def make_occupation_treemap(
         title=title,
     )
 
-    # Make it cleaner + more readable
     fig.update_traces(
         hovertemplate="<b>%{label}</b><br>Count: %{value:,}<extra></extra>",
         marker=dict(line=dict(width=1, color="white")),
-        textinfo="label",  # less clutter than label+value for tiny tiles
+        textinfo="label",
     )
     fig.update_layout(
         template="simple_white",

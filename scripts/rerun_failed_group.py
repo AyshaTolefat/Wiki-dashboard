@@ -55,6 +55,9 @@ WHERE {{
     )
     AS ?genderCategory
   )
+  SERVICE wikibase:label {{
+      bd:serviceParam wikibase:language "en,[AUTO_LANGUAGE],mul,fr,de,es,zh,ru,ja" .
+  }}
 }}
 GROUP BY ?country ?ethnicGroup ?genderCategory
 ORDER BY DESC(?count)
