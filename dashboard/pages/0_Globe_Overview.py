@@ -591,6 +591,6 @@ with right:
 
     if st.button("View dashboard", use_container_width=True):
         st.session_state.selected_country = [qid, label, iso3, str(category), str(category_label)]
-        st.switch_page("pages/1_Country_Dashboard_v2.py")
+        st.switch_page("pages/1_country_dashboard_v2.py")
 
     st.markdown("</div>", unsafe_allow_html=True)
