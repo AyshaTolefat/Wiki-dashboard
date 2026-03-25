@@ -595,7 +595,7 @@ st.markdown(
 )
 
 if st.button("← Back to globe"):
-    st.switch_page("pages/0_Globe_overview.py")
+    st.switch_page("pages/0_Globe_Overview.py")
 
 st.markdown("# Country dashboard")
 
